@@ -5,23 +5,31 @@
   <title>CTF Interactive map</title>
   <link rel="stylesheet" href="css/style.css">
   <script src="https://code.jquery.com/jquery-3.2.1.min.js" charset="utf-8"></script>
+  <script src="js/api.js" charset="utf-8"></script>
   <script src="js/script.js" charset="utf-8"></script>
 </head>
 <body>
 
   <div id="tooltip">
     <div>Регион
-      <p>Новосибирская область</p>
+      <p id="region">Новосибирская область</p>
     </div>
     <div>Команды
       <p id="teams">Life FoxxeS Suslo.Pas НГТУ СГУГИТ</p>
     </div>
     <div>Турниры
-      <p id="teams">NSK CTF, SibSUTIS CTF, FinCTF, FHQ, NSU Crypto</p>
+      <p id="cups">NSK CTF, SibSUTIS CTF, FinCTF, FHQ, NSU Crypto</p>
     </div>
   </div>
 
   <div id="ctfguy"> </div>
+  <div id="legend">
+    <span id="title">ЛЕГЕНДА</span>
+    <div class="block">* - Москва</div>
+    <div class="block">о - Только игроки</div>
+    <div class="block">x - Организаторы</div>
+    <div class="block"></div>
+  </div>
 
   <div id="infoblock">
     <div id="infotitle">
