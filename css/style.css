@@ -1,6 +1,20 @@
-body { background: #343434; }
+/* хром, сафари */
+::-webkit-scrollbar {
+  display: none;
+}
+
+html {
+  -ms-overflow-style: none;
+  overflow: -moz-scrollbars-none;
+}
+
+body {
+  background: rgb(52,52,52);
+  cursor: url('../img/flag.png'), auto;
+}
 
 #map {
+  z-index: 10;
   margin-top: 10px;
   margin-left: 10px;
   width:95%;
@@ -12,20 +26,27 @@ body { background: #343434; }
   right:0;
 }
 /*#tooltip {
-  z-index: 10;
-  border: 1px solid #fff;
-  width: 300px;
-  height: 200px;
-  display: none;
-  position: absolute;
+z-index: 10;
+border: 1px solid #fff;
+width: 300px;
+height: 200px;
+display: none;
+position: absolute;
 }*/
 
 /*#tooltip:hover {
-  display:block;
-  position: fixed;
+display:block;
+position: fixed;
 }*/
 
-.region:hover {
+.region {
+  fill:rgb(30,28,27);
+  fill-opacity:1;
+  fill-rule:evenodd;
+  stroke:none;
+}
+.region:hover, #i_teams:hover, #i_tournaments:hover, #i_courses:hover {
+  cursor: url('../img/flag_active.png'), auto;
   opacity: 0.5;
 }
 
@@ -33,15 +54,15 @@ body { background: #343434; }
   font-family: sans-serif;
   display: none;
   position: absolute;
-  z-index: 10;
-  color: #d5d5d5;
+  z-index: 11;
+  color: rgba(213,213,213,1);
   font-size: 19px;
   text-align:center;
   padding: 4px;
   width: 200px;
   height: auto;
-  background-color: #343434;
-  border: 2px solid #d5d5d5;
+  background-color: rgba(52,52,52,1);
+  border: 2px solid rgba(213,213,213,1);
 }
 #tooltip div {
   margin: 0;
@@ -52,4 +73,48 @@ body { background: #343434; }
   font-size: 16px;
   padding: 0;
   margin: 2px;
+}
+
+#ctfguy {
+  z-index: 9;
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.1;
+  width: 708px;
+  height: 408px;
+  background-image: url('../img/ctfguy.png');
+}
+
+#infoblock {
+ /*rgba(213,213,213,0.5)*/
+  color: rgba(30,28,27,1);
+  font-family: sans-serif;
+  z-index: 12;
+  position: absolute;
+  left: 10%;
+  top: 10%;
+  width: 80%;
+  height: 80%;
+  display: none;
+  background-color: rgba(52,52,52,1);
+  border-radius: 15px;
+  padding: 10px;
+  border: 2px solid rgba(0,0,0,0.8);
+  box-shadow: 7px 7px 5px rgba(0,0,0,0.6);
+}
+
+#infotitle {
+  text-align: right;
+  opacity: 0.8;
+  font-size: 32px;
+  line-height: 32px;
+  height: 42px;
+  padding: 0;
+  border-bottom: 2px solid rgba(0,0,0,0.8);
+}
+#infomenu {
+  float: left;
 }
