@@ -1,0 +1,55 @@
+body { background: #343434; }
+
+#map {
+  margin-top: 10px;
+  margin-left: 10px;
+  width:95%;
+  height:95%;
+  position:fixed;
+  top:0;
+  left:0;
+  bottom:0;
+  right:0;
+}
+/*#tooltip {
+  z-index: 10;
+  border: 1px solid #fff;
+  width: 300px;
+  height: 200px;
+  display: none;
+  position: absolute;
+}*/
+
+/*#tooltip:hover {
+  display:block;
+  position: fixed;
+}*/
+
+.region:hover {
+  opacity: 0.5;
+}
+
+#tooltip {
+  font-family: sans-serif;
+  display: none;
+  position: absolute;
+  z-index: 10;
+  color: #d5d5d5;
+  font-size: 19px;
+  text-align:center;
+  padding: 4px;
+  width: 200px;
+  height: auto;
+  background-color: #343434;
+  border: 2px solid #d5d5d5;
+}
+#tooltip div {
+  margin: 0;
+  padding: 0;
+  margin-bottom: 8px;
+}
+#tooltip p {
+  font-size: 16px;
+  padding: 0;
+  margin: 2px;
+}
