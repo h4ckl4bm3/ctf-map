@@ -87,7 +87,7 @@ position: fixed;
 }
 
 #legend {
-  color: rgba(213,213,213,0.1);
+  color: rgba(213,213,213,1);
   z-index: 9;
   position: fixed;
   left: 10px;
@@ -96,7 +96,7 @@ position: fixed;
   overflow-y: auto;
   border-radius: 15px;
   padding: 10px;
-  border: 2px solid rgba(213,213,213,0.1);
+  border: 2px solid rgba(213,213,213,1);
 }
 
 #legend #title {
@@ -105,31 +105,81 @@ position: fixed;
 }
 
 #infoblock {
- /*rgba(213,213,213,0.5)*/
-  color: rgba(30,28,27,1);
+  color: rgba(213,213,213,1);
+  /*color: rgba(30,28,27,1);*/
   z-index: 12;
   position: absolute;
   left: 10%;
   top: 10%;
   width: 80%;
   height: 80%;
-  display: none;
+  /*display: none;*/
   background-color: rgba(52,52,52,1);
   border-radius: 15px;
-  padding: 10px;
-  border: 2px solid rgba(0,0,0,0.8);
+  /*padding: 10px;*/
+  /*border: 2px solid rgba(0,0,0,0.8);*/
+  border: 2px solid rgba(213,213,213,1);
   box-shadow: 7px 7px 5px rgba(0,0,0,0.6);
 }
 
 #infotitle {
   text-align: right;
   opacity: 0.8;
-  font-size: 32px;
+  padding: 10px;
+  /*font-size: 32px;
   line-height: 32px;
-  height: 42px;
-  padding: 0;
-  border-bottom: 2px solid rgba(0,0,0,0.8);
+  height: 42px;*/
+  /*font-size: 10px;*/
+  font-size: 1.75vw;
+  /*padding: 0;*/
+  border-bottom: 2px solid rgba(213,213,213,1);
 }
 #infomenu {
   float: left;
+}
+
+.rounded  {
+  /*margin: 10px;*/
+  width: 150px;
+}
+.pos-left {
+  float: left;
+}
+#infocommon {
+  padding: 10px;
+}
+
+#infocommon p {
+  padding: 5px;
+  margin: 0;
+}
+
+
+.post-container {
+    padding-bottom: 8px;
+    overflow: auto;
+    border-bottom: 2px solid rgba(213,213,213,1);
+}
+.post-thumb {
+    float: left
+}
+.post-thumb img {
+    margin-left: 8px;
+    display: block;
+    width: 150px;
+    border-radius: 8px;
+}
+.post-content {
+    margin-left: 168px
+}
+.post-content p {
+    margin: 0;
+    /*-webkit-margin-before: 0;
+    -webkit-margin-after: 0;*/
+}
+.post-title {
+    margin: 10px 5px 5px 5px;
+    font-weight: bold;
+    padding: 5px;
+    color: rgba(213,213,213,1);
 }
