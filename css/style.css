@@ -1,5 +1,5 @@
 /* хром, сафари */
-::-webkit-scrollbar {
+html::-webkit-scrollbar {
   display: none;
 }
 
@@ -113,13 +113,15 @@ position: fixed;
   top: 10%;
   width: 80%;
   height: 80%;
-  /*display: none;*/
+  display: none;
   background-color: rgba(52,52,52,1);
   border-radius: 15px;
   /*padding: 10px;*/
   /*border: 2px solid rgba(0,0,0,0.8);*/
   border: 2px solid rgba(213,213,213,1);
   box-shadow: 7px 7px 5px rgba(0,0,0,0.6);
+	overflow: hidden;
+  /*padding-bottom: 50px;*/
 }
 
 #infotitle {
@@ -130,7 +132,7 @@ position: fixed;
   line-height: 32px;
   height: 42px;*/
   /*font-size: 10px;*/
-  font-size: 1.75vw;
+  font-size: 24px;
   /*padding: 0;*/
   border-bottom: 2px solid rgba(213,213,213,1);
 }
@@ -160,6 +162,9 @@ position: fixed;
     overflow: auto;
     border-bottom: 2px solid rgba(213,213,213,1);
 }
+.post-container:last-child {
+  border-bottom: 0px;
+}
 .post-thumb {
     float: left
 }
@@ -182,4 +187,70 @@ position: fixed;
     font-weight: bold;
     padding: 5px;
     color: rgba(213,213,213,1);
+}
+
+.scrollbar
+{
+	margin-left: 30px;
+	float: left;
+	height: 300px;
+	width: 65px;
+	background: #F5F5F5;
+	overflow-y: scroll;
+	margin-bottom: 25px;
+}
+
+.force-overflow
+{
+	min-height: 450px;
+}
+
+#infobody {
+  top: 5%;
+  /* Firefox */
+  max-height: -moz-calc(100% - 58px);
+  /* WebKit */
+  max-height: -webkit-calc(100% - 58px);
+  /* Opera */
+  max-height: -o-calc(100% - 58px);
+  /* Standard */
+  max-height: calc(100% - 58px);
+  margin: 3px;
+  /*padding-bottom: 50px;*/
+  overflow-y: scroll;
+}
+
+/*#infobody:hover {
+  overflow-y: scroll;
+}*/
+#infobody::-webkit-scrollbar-track
+{
+  /*background: #62e2a2;*/
+	/*-webkit-box-shadow: inset 0 0 6px rgba(213,213,213,1);*/
+	border-radius: 8px;
+}
+
+#infobody::-webkit-scrollbar
+{
+  width: 8px;
+  -webkit-border-radius: 8px;
+  !important;
+}
+
+#infobody::-webkit-scrollbar-thumb
+{
+  background: rgba(213,213,213,1);
+  border-radius: 8px;
+	-webkit-box-shadow: inset 0 0 6px rgba(213,213,213,1);
+}
+
+#copyrights {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  z-index: 11;
+  color: rgba(213,213,213,1);
+}
+#copyrights a {
+  color: rgba(213,213,213,1);
 }

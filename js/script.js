@@ -1,7 +1,7 @@
 let active = false;
 $( document ).ready(function() {
 
-  $("path")
+  $(".region")
   .mouseenter(function(e) {
     if(!active)
     {
@@ -11,10 +11,10 @@ $( document ).ready(function() {
   })
   .mousemove(function(e) {
     if(!active)
-      $("#tooltip").css({
-          "top" : e.pageY,
-          "left" : e.pageX + 15
-      });
+    $("#tooltip").css({
+      "top" : e.pageY,
+      "left" : e.pageX + 15
+    });
   })
   .mouseout(function(e) {
     $("#tooltip").hide();
