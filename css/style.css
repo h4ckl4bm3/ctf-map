@@ -43,7 +43,7 @@ position: fixed;
 .region {
   fill:rgba(30,28,27,1);
 }
-.region:hover, #i_teams:hover, #i_tournaments:hover, #i_courses:hover {
+.region:hover, #i_teams:hover, #i_cups:hover, #i_courses:hover, #close:hover {
   cursor: url('../img/flag_active.png'), auto;
   opacity: 0.5;
 }
@@ -166,7 +166,9 @@ position: fixed;
   border-bottom: 0px;
 }
 .post-thumb {
-    float: left
+    float: left;
+    margin-right: 5px;
+    margin-bottom: 5px;
 }
 .post-thumb img {
     margin-left: 8px;
@@ -175,7 +177,8 @@ position: fixed;
     border-radius: 8px;
 }
 .post-content {
-    margin-left: 168px
+
+    /*margin-left: 168px*/
 }
 .post-content p {
     margin: 0;
@@ -253,4 +256,9 @@ position: fixed;
 }
 #copyrights a {
   color: rgba(213,213,213,1);
+}
+
+#close {
+  border: 2px solid rgba(213,213,213,1);
+  border-radius: 8px;
 }
