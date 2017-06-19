@@ -1,1 +1,2998 @@
-[{"academic": false, "aliases": ["MiTeam", ".MiT."], "country": "RU", "id": 1, "name": "MiT"}, {"academic": false, "aliases": ["smokedchicken"], "country": "RU", "id": 2, "name": "Smoked Chicken"}, {"academic": false, "aliases": ["leetmore", "CIT", "CIT CTF", "citctf", "Leet_More"], "country": "RU", "id": 3, "name": "Leet More"}, {"academic": false, "aliases": [], "country": "RU", "id": 312, "name": "SSH"}, {"academic": false, "aliases": ["RDot", "RDotOrg", "Guests"], "country": "RU", "id": 339, "name": "Rdot.org"}, {"academic": false, "aliases": ["[Lobotomy]"], "country": "RU", "id": 374, "name": "Lobotomy"}, {"academic": false, "aliases": [], "country": "RU", "id": 386, "name": "WildRide"}, {"academic": false, "aliases": ["VLGU"], "country": "RU", "id": 405, "name": "Honeypot"}, {"academic": true, "aliases": [], "country": "RU", "id": 469, "name": "ufologists"}, {"academic": true, "aliases": ["Ko1basta"], "country": "RU", "id": 496, "name": "Koibasta"}, {"academic": false, "aliases": [], "country": "RU", "id": 518, "name": "dalbo"}, {"academic": true, "aliases": ["\u0425\u0430\u043a\u0435\u0440\u0414\u043e\u043c"], "country": "RU", "id": 552, "name": "HackerDom"}, {"academic": true, "aliases": [], "country": "RU", "id": 557, "name": "SiBears"}, {"academic": true, "aliases": ["censored"], "country": "RU", "id": 558, "name": "[censored]"}, {"academic": false, "aliases": ["peterpwn"], "country": "RU", "id": 566, "name": "PeterPEN"}, {"academic": true, "aliases": [], "country": "RU", "id": 586, "name": "Bushwhackers"}, {"academic": false, "aliases": ["Antichat Team", "Antichat.ru"], "country": "RU", "id": 826, "name": "Antichat"}, {"academic": false, "aliases": [], "country": "RU", "id": 859, "name": "Inception"}, {"academic": false, "aliases": ["BAD Magic"], "country": "RU", "id": 988, "name": "BAD_Magic"}, {"academic": false, "aliases": ["LeetChicken", "MoreSmokedLeetChicken", "Leet Chicken", "MSLC", "MoreSmoked LeetChicken"], "country": "RU", "id": 1005, "name": "More Smoked Leet Chicken"}, {"academic": false, "aliases": [], "country": "RU", "id": 1006, "name": "IV"}, {"academic": false, "aliases": [], "country": "RU", "id": 1044, "name": "0day"}, {"academic": false, "aliases": ["MagicHat", "Magic-Hat"], "country": "RU", "id": 1398, "name": "Magic Hat"}, {"academic": false, "aliases": ["BECHED", "BECHED-ahack.ru"], "country": "RU", "id": 1404, "name": "DAGESTAN"}, {"academic": true, "aliases": ["H34dump"], "country": "RU", "id": 1411, "name": "Headump"}, {"academic": false, "aliases": [], "country": "RU", "id": 1413, "name": "Noobs4Win"}, {"academic": false, "aliases": [], "country": "RU", "id": 1414, "name": "-=HQS=-"}, {"academic": false, "aliases": [], "country": "RU", "id": 1416, "name": "Hack Club"}, {"academic": false, "aliases": [], "country": "RU", "id": 1418, "name": "SlashDotDash"}, {"academic": false, "aliases": [], "country": "RU", "id": 1425, "name": "Singularity"}, {"academic": false, "aliases": [], "country": "RU", "id": 1427, "name": "xBh"}, {"academic": false, "aliases": ["RooterX, RooterX2", "RooterX2", "ShamanJD"], "country": "RU", "id": 1434, "name": "RooterX"}, {"academic": false, "aliases": ["QBiT"], "country": "RU", "id": 1445, "name": "Yozik"}, {"academic": false, "aliases": [], "country": "RU", "id": 1739, "name": "newteam"}, {"academic": false, "aliases": ["[DrunkenPandas]", "TechnoPandas", "DrnknPnds"], "country": "RU", "id": 1946, "name": "[TechnoPandas]"}, {"academic": false, "aliases": [], "country": "RU", "id": 2481, "name": "HD || ~HD"}, {"academic": false, "aliases": ["ctftime qa team 2", "ctftime qa team 3", "CTFtime.org", "CTFtime"], "country": "RU", "id": 2493, "name": "ctftime qa team"}, {"academic": false, "aliases": ["movsx", "leo.movsx"], "country": "RU", "id": 2502, "name": "leo"}, {"academic": false, "aliases": [], "country": "RU", "id": 2503, "name": "amigo"}, {"academic": false, "aliases": ["rnnf", "ReallyNamesFor", "RNF"], "country": "RU", "id": 2540, "name": "ReallyNonamesFor"}, {"academic": true, "aliases": ["KEVA Team", "[Keva]", "k3v4"], "country": "RU", "id": 2980, "name": "keva"}, {"academic": false, "aliases": ["MSLM", "More_Small_Leet_More"], "country": "RU", "id": 2998, "name": "More Small Leet More"}, {"academic": false, "aliases": [], "country": "RU", "id": 3205, "name": "BSC"}, {"academic": false, "aliases": ["rootroot", "rootroot.org", "r00t0vi4"], "country": "RU", "id": 3213, "name": "rootroot.ru"}, {"academic": false, "aliases": [], "country": "RU", "id": 3220, "name": "XOROR"}, {"academic": false, "aliases": ["balcr3w", "ReallyBalalaika", "BalalaikaCrew", "Balalaika Cr3w"], "country": "RU", "id": 3257, "name": "BalalaikaCr3w"}, {"academic": false, "aliases": [], "country": "RU", "id": 3258, "name": "HazaNaLeni"}, {"academic": false, "aliases": [], "country": "RU", "id": 3307, "name": "Gifts"}, {"academic": true, "aliases": [], "country": "RU", "id": 3335, "name": "Hardc0de"}, {"academic": false, "aliases": [], "country": "RU", "id": 3589, "name": "ALIAS FOR NEW FLAG"}, {"academic": false, "aliases": [], "country": "RU", "id": 3593, "name": "Gre4ka"}, {"academic": false, "aliases": [], "country": "RU", "id": 3630, "name": "Akara"}, {"academic": false, "aliases": [], "country": "RU", "id": 3794, "name": "fbi-danil"}, {"academic": false, "aliases": [], "country": "RU", "id": 3798, "name": "megamo$k"}, {"academic": false, "aliases": [], "country": "RU", "id": 3890, "name": "\u0444\u0435\u0434\u0435\u0440\u0430\u043b"}, {"academic": false, "aliases": ["Team.GOV", "l0rd", "OMGACM", "XZTeam", "Ivanov"], "country": "RU", "id": 3891, "name": "Pashok"}, {"academic": true, "aliases": [], "country": "RU", "id": 3906, "name": "v0rt3x"}, {"academic": false, "aliases": [], "country": "RU", "id": 3910, "name": "Kamazi"}, {"academic": false, "aliases": [], "country": "RU", "id": 4032, "name": "gamma"}, {"academic": false, "aliases": [], "country": "RU", "id": 4075, "name": "Syndicate"}, {"academic": false, "aliases": [], "country": "RU", "id": 4076, "name": "FreeThrow"}, {"academic": false, "aliases": [], "country": "RU", "id": 4176, "name": "DNO"}, {"academic": false, "aliases": ["Brine"], "country": "RU", "id": 4292, "name": "Sandbox"}, {"academic": false, "aliases": [], "country": "RU", "id": 4351, "name": "rwx"}, {"academic": false, "aliases": ["'\"><script>alert('Hello from Abr1k0s')</script>"], "country": "RU", "id": 4354, "name": "Abr1k0s"}, {"academic": false, "aliases": [], "country": "RU", "id": 4358, "name": "1ns1ght"}, {"academic": false, "aliases": [], "country": "RU", "id": 4396, "name": "ReseArchers"}, {"academic": false, "aliases": [], "country": "RU", "id": 4397, "name": "Crypto Knights"}, {"academic": false, "aliases": [], "country": "RU", "id": 4402, "name": "KoiBastard"}, {"academic": false, "aliases": [], "country": "RU", "id": 4418, "name": "heX"}, {"academic": false, "aliases": [], "country": "RU", "id": 4422, "name": "MaPTbIH-team"}, {"academic": false, "aliases": ["LegalSpies", "Legal Spies", "Cat And Fish", "CatAndFish"], "country": "RU", "id": 4428, "name": "Cat-n-Fish"}, {"academic": false, "aliases": [], "country": "RU", "id": 4818, "name": "EpicTeam"}, {"academic": false, "aliases": ["TRex_"], "country": "RU", "id": 4861, "name": "TRex"}, {"academic": false, "aliases": ["whitehatlab", "spbru"], "country": "RU", "id": 4923, "name": "spb_ru"}, {"academic": false, "aliases": [], "country": "RU", "id": 5094, "name": "to_remove"}, {"academic": false, "aliases": [], "country": "RU", "id": 5141, "name": "UTMN"}, {"academic": false, "aliases": [], "country": "RU", "id": 5154, "name": "sdss.pro"}, {"academic": false, "aliases": [], "country": "RU", "id": 5170, "name": "BeLove"}, {"academic": false, "aliases": [], "country": "RU", "id": 5191, "name": "Green Bats"}, {"academic": false, "aliases": [], "country": "RU", "id": 5319, "name": "DevBy0"}, {"academic": false, "aliases": [], "country": "RU", "id": 6336, "name": "v2m"}, {"academic": false, "aliases": [], "country": "RU", "id": 6337, "name": "Digital"}, {"academic": false, "aliases": [], "country": "RU", "id": 6343, "name": "Magic-Hand"}, {"academic": false, "aliases": [], "country": "RU", "id": 6349, "name": "TSU"}, {"academic": false, "aliases": [], "country": "RU", "id": 6353, "name": "banderlogi"}, {"academic": false, "aliases": ["novaexpress", "nova-ex"], "country": "RU", "id": 6355, "name": "Nova Express"}, {"academic": false, "aliases": [], "country": "RU", "id": 6471, "name": "4horsemen"}, {"academic": false, "aliases": ["BS"], "country": "RU", "id": 6475, "name": "BrainStorm"}, {"academic": true, "aliases": ["SUSlo", "EpicFairPlay"], "country": "RU", "id": 6502, "name": "SUSlo.PAS"}, {"academic": true, "aliases": [], "country": "RU", "id": 6516, "name": "Cerberus"}, {"academic": true, "aliases": ["IT Crowd _", "IT Crowd"], "country": "RU", "id": 6540, "name": "ITCrowd"}, {"academic": true, "aliases": ["7h3_0n3_734m"], "country": "RU", "id": 6545, "name": "The one team"}, {"academic": false, "aliases": [], "country": "RU", "id": 6658, "name": "0x1FC48"}, {"academic": false, "aliases": [], "country": "RU", "id": 6716, "name": "HazaNaMone"}, {"academic": false, "aliases": [], "country": "RU", "id": 6732, "name": "KrasHackTeam"}, {"academic": false, "aliases": [], "country": "RU", "id": 6739, "name": "Liberada Ensaladera"}, {"academic": false, "aliases": [], "country": "RU", "id": 6788, "name": "GetToDaChoppa"}, {"academic": false, "aliases": [], "country": "RU", "id": 6789, "name": "YoungFox"}, {"academic": false, "aliases": [], "country": "RU", "id": 6971, "name": "QBiT"}, {"academic": false, "aliases": [], "country": "RU", "id": 7005, "name": "samarahackgroup"}, {"academic": false, "aliases": ["dv_team", "Destructive 0xAEAE", "Phil9l", "Destructive_Voice", "DestructiveVoice"], "country": "RU", "id": 7527, "name": "Destructive Voice"}, {"academic": false, "aliases": [], "country": "RU", "id": 7531, "name": "UscherbGuild"}, {"academic": false, "aliases": [], "country": "RU", "id": 7565, "name": "some_usual_team"}, {"academic": false, "aliases": [], "country": "RU", "id": 7571, "name": "DagEx"}, {"academic": false, "aliases": [], "country": "RU", "id": 7618, "name": "CommeIlFaut"}, {"academic": false, "aliases": [], "country": "RU", "id": 7653, "name": "gek0n"}, {"academic": false, "aliases": [], "country": "RU", "id": 7909, "name": "hashtag"}, {"academic": false, "aliases": [], "country": "RU", "id": 7915, "name": "IFIT"}, {"academic": false, "aliases": [], "country": "RU", "id": 7917, "name": "NetHack"}, {"academic": false, "aliases": [], "country": "RU", "id": 7918, "name": "YetAnotherTeam"}, {"academic": false, "aliases": [], "country": "RU", "id": 7921, "name": "Akara2"}, {"academic": false, "aliases": [], "country": "RU", "id": 7922, "name": "s_n"}, {"academic": false, "aliases": [], "country": "RU", "id": 7923, "name": "Hotel squad"}, {"academic": false, "aliases": [], "country": "RU", "id": 7924, "name": "MeGa_Mo$k_New"}, {"academic": false, "aliases": [], "country": "RU", "id": 7925, "name": "Kiddies' Band"}, {"academic": true, "aliases": [], "country": "RU", "id": 7930, "name": "SUSlo.dump"}, {"academic": true, "aliases": ["\u041c\u044f\u0433\u043a\u0438\u0439 \u043e\u0442\u0431\u043e\u0439", "LightsOut", "Lights_Out"], "country": "RU", "id": 7931, "name": "Lights Out"}, {"academic": false, "aliases": [], "country": "RU", "id": 7932, "name": "\u041a\u043e\u0442\u0430\u043d\u044b"}, {"academic": false, "aliases": [], "country": "RU", "id": 7934, "name": "Brizz"}, {"academic": false, "aliases": ["SnowNiggers"], "country": "RU", "id": 7935, "name": "Snow_Niggers"}, {"academic": true, "aliases": ["placeyouradhere", "place_your_ad_h"], "country": "RU", "id": 7938, "name": "place your ad here"}, {"academic": false, "aliases": [], "country": "RU", "id": 7984, "name": "SNK"}, {"academic": false, "aliases": [], "country": "RU", "id": 7987, "name": "ALINA_MYR_MYR"}, {"academic": false, "aliases": [], "country": "RU", "id": 7992, "name": "crabs"}, {"academic": false, "aliases": [], "country": "RU", "id": 8092, "name": "\u0421yberguru"}, {"academic": false, "aliases": [], "country": "RU", "id": 8100, "name": "Koibasta Young"}, {"academic": false, "aliases": [], "country": "RU", "id": 8106, "name": "GreatEvent"}, {"academic": false, "aliases": [], "country": "RU", "id": 8112, "name": "Mu574ng"}, {"academic": false, "aliases": [], "country": "RU", "id": 8118, "name": "d4d"}, {"academic": true, "aliases": [], "country": "RU", "id": 8165, "name": "IBAS"}, {"academic": false, "aliases": [], "country": "RU", "id": 8192, "name": "KernelPanic"}, {"academic": false, "aliases": [], "country": "RU", "id": 8205, "name": "alexnikleo"}, {"academic": false, "aliases": [], "country": "RU", "id": 8725, "name": "bull's eggs"}, {"academic": false, "aliases": [], "country": "RU", "id": 8726, "name": "gchebanov_team"}, {"academic": false, "aliases": [], "country": "RU", "id": 8730, "name": "Kotany"}, {"academic": true, "aliases": ["Yet Another Team", "YetAnotherTea", "(\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b"], "country": "RU", "id": 8751, "name": "Curiosity"}, {"academic": false, "aliases": [], "country": "RU", "id": 8898, "name": "\u00af\\_(\u30c4)_/\u00af"}, {"academic": true, "aliases": [], "country": "RU", "id": 9136, "name": "CIDA"}, {"academic": false, "aliases": [], "country": "RU", "id": 10149, "name": "Perpertum"}, {"academic": false, "aliases": [], "country": "RU", "id": 10158, "name": "0Sec"}, {"academic": true, "aliases": [], "country": "RU", "id": 10175, "name": "ked"}, {"academic": true, "aliases": [], "country": "RU", "id": 10180, "name": "Aple"}, {"academic": false, "aliases": ["karelia"], "country": "RU", "id": 10254, "name": "k2701"}, {"academic": false, "aliases": [], "country": "RU", "id": 10259, "name": "f0rest"}, {"academic": false, "aliases": [], "country": "RU", "id": 10917, "name": "/\\/ebel"}, {"academic": true, "aliases": [], "country": "RU", "id": 11362, "name": "HSE Random Shuffle"}, {"academic": false, "aliases": [], "country": "RU", "id": 11376, "name": "I am deF Fck z_ONE(1)"}, {"academic": true, "aliases": [], "country": "RU", "id": 11389, "name": "Flying Crocs"}, {"academic": true, "aliases": [], "country": "RU", "id": 11391, "name": "Search Flag Agency"}, {"academic": false, "aliases": [], "country": "RU", "id": 11393, "name": "P1peZ"}, {"academic": false, "aliases": [], "country": "RU", "id": 11397, "name": "SyktGU-InfoSec"}, {"academic": true, "aliases": [], "country": "RU", "id": 11467, "name": "ZumZoom"}, {"academic": false, "aliases": [], "country": "RU", "id": 11593, "name": "Call of the Molly"}, {"academic": false, "aliases": [], "country": "RU", "id": 11760, "name": "M E M E B O Y S 2007 ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)"}, {"academic": false, "aliases": [], "country": "RU", "id": 11763, "name": "kb"}, {"academic": false, "aliases": [], "country": "RU", "id": 11844, "name": "SmashedButWinners"}, {"academic": true, "aliases": [], "country": "RU", "id": 11850, "name": "vnp_obsujdaem"}, {"academic": false, "aliases": [], "country": "RU", "id": 11916, "name": "PUFe"}, {"academic": false, "aliases": [], "country": "RU", "id": 11927, "name": "LFC"}, {"academic": true, "aliases": [], "country": "RU", "id": 12601, "name": "JoyTeam"}, {"academic": false, "aliases": ["JacobJacob", "gjamdev"], "country": "RU", "id": 12618, "name": "Jacob"}, {"academic": false, "aliases": [], "country": "RU", "id": 12685, "name": "12345"}, {"academic": false, "aliases": [], "country": "RU", "id": 12748, "name": "\u041a\u043e\u043c\u0430\u043d\u0434\u0410 \u041a\u0438\u0441\u044b"}, {"academic": true, "aliases": [], "country": "RU", "id": 13603, "name": "CLASSIFIED"}, {"academic": false, "aliases": [], "country": "RU", "id": 13606, "name": "BigBang"}, {"academic": false, "aliases": [], "country": "RU", "id": 13607, "name": "srsly"}, {"academic": false, "aliases": [], "country": "RU", "id": 13666, "name": "MFK"}, {"academic": false, "aliases": [], "country": "RU", "id": 13673, "name": "AllahuAkbar"}, {"academic": true, "aliases": [], "country": "RU", "id": 14052, "name": "0-day"}, {"academic": false, "aliases": [], "country": "RU", "id": 14063, "name": "Fluent"}, {"academic": false, "aliases": [], "country": "RU", "id": 14149, "name": "vinnipuh"}, {"academic": false, "aliases": [], "country": "RU", "id": 14152, "name": "\u0421ollapsar"}, {"academic": false, "aliases": [], "country": "RU", "id": 14161, "name": "W3_h4ck_4_fun"}, {"academic": false, "aliases": [], "country": "RU", "id": 14177, "name": "Team of True Hackers"}, {"academic": false, "aliases": [], "country": "RU", "id": 14880, "name": "DarkSideCookie"}, {"academic": false, "aliases": [], "country": "RU", "id": 15168, "name": "jughead"}, {"academic": false, "aliases": [], "country": "RU", "id": 15703, "name": "KEKbusters"}, {"academic": false, "aliases": [], "country": "RU", "id": 15705, "name": "kzi13team"}, {"academic": false, "aliases": ["Yellowstone Yachtsclub of Yawning", "LC?BC", "LCzBC", "LC/BC", "lcbc", "\u0441\u044b\u0441", "cblc", "CbIC", "LC+BC"], "country": "RU", "id": 15726, "name": "LC\u21afBC"}, {"academic": false, "aliases": [], "country": "RU", "id": 16082, "name": "pysch"}, {"academic": false, "aliases": [], "country": "RU", "id": 16095, "name": "hellman"}, {"academic": true, "aliases": [], "country": "RU", "id": 16125, "name": "ThunderClap"}, {"academic": false, "aliases": [], "country": "RU", "id": 16168, "name": "Barklay"}, {"academic": true, "aliases": [], "country": "RU", "id": 16172, "name": "SharLike"}, {"academic": false, "aliases": ["4lh4l4l4l4y"], "country": "RU", "id": 16335, "name": "4\u043b\u04454\u043b4\u043b4\u043b4\u0439"}, {"academic": false, "aliases": [], "country": "RU", "id": 16534, "name": "Honey_Pot"}, {"academic": false, "aliases": [], "country": "RU", "id": 16550, "name": "PENTESTIT"}, {"academic": false, "aliases": [], "country": "RU", "id": 16561, "name": "Inventio"}, {"academic": false, "aliases": [], "country": "RU", "id": 16686, "name": "UNDERSOWER"}, {"academic": false, "aliases": [], "country": "RU", "id": 16696, "name": "dasdasdsds"}, {"academic": true, "aliases": [], "country": "RU", "id": 16780, "name": "not_tw"}, {"academic": true, "aliases": [], "country": "RU", "id": 16796, "name": "M-3"}, {"academic": true, "aliases": [], "country": "RU", "id": 16799, "name": "Okey,Google!"}, {"academic": false, "aliases": [], "country": "RU", "id": 16800, "name": "Cryptoland"}, {"academic": false, "aliases": [], "country": "RU", "id": 16801, "name": "\u041a\u043e\u0440\u043f\u043e\u0440\u0430\u0446\u0438\u044f \u0438\u0433\u0440"}, {"academic": false, "aliases": [], "country": "RU", "id": 16813, "name": "axp5"}, {"academic": true, "aliases": [], "country": "RU", "id": 16814, "name": "Pi bits of RSA"}, {"academic": true, "aliases": [], "country": "RU", "id": 16834, "name": "ni4osi"}, {"academic": false, "aliases": ["Butthurt Security"], "country": "RU", "id": 16864, "name": "c21h30o2"}, {"academic": true, "aliases": [], "country": "RU", "id": 16965, "name": "lalka3"}, {"academic": false, "aliases": [], "country": "RU", "id": 17300, "name": "goCTFONWeekdays"}, {"academic": false, "aliases": ["The_invulnerable", "lnvulnerable", "1nvu1ner4b1e", "The invulnerable"], "country": "RU", "id": 17336, "name": "Invulnerable"}, {"academic": false, "aliases": [], "country": "RU", "id": 17660, "name": "MEPHI_Students"}, {"academic": false, "aliases": [], "country": "RU", "id": 17676, "name": "SyktSU 2015 CTF"}, {"academic": true, "aliases": ["U_K"], "country": "RU", "id": 17705, "name": "Undefinded Keys"}, {"academic": false, "aliases": [], "country": "RU", "id": 17723, "name": "just4funteam"}, {"academic": true, "aliases": [], "country": "RU", "id": 19041, "name": "Fomka"}, {"academic": false, "aliases": [], "country": "RU", "id": 19046, "name": "805"}, {"academic": true, "aliases": [], "country": "RU", "id": 19048, "name": "KXTI_4"}, {"academic": false, "aliases": [], "country": "RU", "id": 19080, "name": "AwesomeNoobTeam"}, {"academic": false, "aliases": [], "country": "RU", "id": 19169, "name": "KuBik"}, {"academic": true, "aliases": [], "country": "RU", "id": 19187, "name": "TeamGame"}, {"academic": false, "aliases": [], "country": "RU", "id": 19880, "name": "BoobleGum"}, {"academic": false, "aliases": [], "country": "RU", "id": 20033, "name": "KXTI_1"}, {"academic": false, "aliases": [], "country": "RU", "id": 20494, "name": "fasdfas"}, {"academic": true, "aliases": [], "country": "RU", "id": 20495, "name": "Gampr"}, {"academic": false, "aliases": [], "country": "RU", "id": 20509, "name": "AUE"}, {"academic": false, "aliases": [], "country": "RU", "id": 20543, "name": "HelloWrong"}, {"academic": true, "aliases": [], "country": "RU", "id": 20550, "name": "Undefined[Ufologists]"}, {"academic": true, "aliases": ["shadow-servants", "Shadow_Servants", "shadowservants"], "country": "RU", "id": 20740, "name": "Shadow Servants"}, {"academic": true, "aliases": [], "country": "RU", "id": 20747, "name": "HOV"}, {"academic": false, "aliases": [], "country": "RU", "id": 20751, "name": "PHTeam"}, {"academic": true, "aliases": [], "country": "RU", "id": 20770, "name": "Lalochka"}, {"academic": false, "aliases": [], "country": "RU", "id": 20893, "name": "Valar Morghulis"}, {"academic": true, "aliases": [], "country": "RU", "id": 20894, "name": "Shaggy Bumps"}, {"academic": false, "aliases": ["Jiesus Christ Superstar"], "country": "RU", "id": 20903, "name": "JCS"}, {"academic": true, "aliases": ["Higher School of Exploits", "Corrupted_Reflection", "CorruptedReflection", "Corrupted-Reflection"], "country": "RU", "id": 20904, "name": "Corrupted Reflection"}, {"academic": true, "aliases": [], "country": "RU", "id": 20907, "name": "bicycle_overdrive"}, {"academic": true, "aliases": [], "country": "RU", "id": 20909, "name": "KXTI_1221"}, {"academic": false, "aliases": [], "country": "RU", "id": 21124, "name": "Cybers of Vector"}, {"academic": true, "aliases": ["voidhack0x42"], "country": "RU", "id": 21137, "name": "VoidHack"}, {"academic": false, "aliases": [], "country": "RU", "id": 21184, "name": "DjigIT"}, {"academic": false, "aliases": [], "country": "RU", "id": 21193, "name": "The Firm"}, {"academic": false, "aliases": [], "country": "RU", "id": 21645, "name": "h4rdF0rc3"}, {"academic": true, "aliases": [], "country": "RU", "id": 21651, "name": "banditi"}, {"academic": false, "aliases": [], "country": "RU", "id": 21652, "name": "sigorilla"}, {"academic": false, "aliases": [], "country": "RU", "id": 21662, "name": "coolNULL"}, {"academic": false, "aliases": [], "country": "RU", "id": 21713, "name": "YanTayga"}, {"academic": false, "aliases": [], "country": "RU", "id": 21833, "name": "Absurd"}, {"academic": false, "aliases": [], "country": "RU", "id": 21850, "name": "err0r-451"}, {"academic": false, "aliases": [], "country": "RU", "id": 21984, "name": "tank1st99"}, {"academic": false, "aliases": [], "country": "RU", "id": 22020, "name": "kek"}, {"academic": false, "aliases": [], "country": "RU", "id": 22022, "name": "espresso"}, {"academic": true, "aliases": [], "country": "RU", "id": 22038, "name": "Espacio"}, {"academic": false, "aliases": [], "country": "RU", "id": 22041, "name": "xeksec"}, {"academic": false, "aliases": ["[S_W]"], "country": "RU", "id": 22046, "name": "sudo_win"}, {"academic": true, "aliases": ["a1exdandy_rumi"], "country": "RU", "id": 22049, "name": "a1exdandy"}, {"academic": true, "aliases": [], "country": "RU", "id": 22232, "name": "Sindikat"}, {"academic": true, "aliases": [], "country": "RU", "id": 22242, "name": "Gentlemens"}, {"academic": false, "aliases": [], "country": "RU", "id": 22261, "name": "Briner"}, {"academic": false, "aliases": [], "country": "RU", "id": 22269, "name": "rcc.zone"}, {"academic": true, "aliases": [], "country": "RU", "id": 22331, "name": "MSTUCA"}, {"academic": false, "aliases": [], "country": "RU", "id": 22350, "name": "rays"}, {"academic": false, "aliases": [], "country": "RU", "id": 22378, "name": "c3ret"}, {"academic": false, "aliases": [], "country": "RU", "id": 22552, "name": "MTFBWY"}, {"academic": true, "aliases": [], "country": "RU", "id": 24067, "name": "MITHT"}, {"academic": false, "aliases": [], "country": "RU", "id": 24077, "name": "alert1"}, {"academic": false, "aliases": ["[EVA]"], "country": "RU", "id": 24109, "name": "Eva"}, {"academic": false, "aliases": [], "country": "RU", "id": 24351, "name": "Hexistadsdnce"}, {"academic": true, "aliases": ["Hexistance"], "country": "RU", "id": 24354, "name": "Hexistence"}, {"academic": false, "aliases": [], "country": "RU", "id": 24355, "name": "pwnedbyeliteh4x0r"}, {"academic": false, "aliases": [], "country": "RU", "id": 24512, "name": "ztf"}, {"academic": true, "aliases": [], "country": "RU", "id": 24700, "name": "NoJava"}, {"academic": false, "aliases": [], "country": "RU", "id": 24738, "name": "SiberianFrost"}, {"academic": false, "aliases": [], "country": "RU", "id": 26107, "name": "Leet ^_^ Less"}, {"academic": false, "aliases": [], "country": "RU", "id": 26118, "name": "Swampers"}, {"academic": false, "aliases": [], "country": "RU", "id": 26237, "name": "sergey122"}, {"academic": false, "aliases": [], "country": "RU", "id": 26240, "name": "c3retc3"}, {"academic": true, "aliases": [], "country": "RU", "id": 26257, "name": "homies"}, {"academic": false, "aliases": [], "country": "RU", "id": 26622, "name": "pechenko"}, {"academic": false, "aliases": [], "country": "RU", "id": 26647, "name": "KingAndSlaves"}, {"academic": true, "aliases": [], "country": "RU", "id": 26660, "name": "COTIP"}, {"academic": true, "aliases": [], "country": "RU", "id": 26713, "name": "StonedPanda"}, {"academic": false, "aliases": [], "country": "RU", "id": 26829, "name": "PHDays"}, {"academic": false, "aliases": [], "country": "RU", "id": 26848, "name": "w3bD0lph1n"}, {"academic": true, "aliases": [], "country": "RU", "id": 26883, "name": "Basically Unknown"}, {"academic": false, "aliases": [], "country": "RU", "id": 26884, "name": "bitaps.com"}, {"academic": false, "aliases": [], "country": "RU", "id": 27059, "name": "YoungTeam"}, {"academic": false, "aliases": [], "country": "RU", "id": 27094, "name": "VolgaCTF.org"}, {"academic": false, "aliases": [], "country": "RU", "id": 27095, "name": "RTeam"}, {"academic": false, "aliases": [], "country": "RU", "id": 27399, "name": "Corrupted"}, {"academic": true, "aliases": ["mthrhckrs"], "country": "RU", "id": 27433, "name": "motherhackers"}, {"academic": true, "aliases": [], "country": "RU", "id": 27477, "name": "mereana"}, {"academic": false, "aliases": ["tmtz-school"], "country": "RU", "id": 27515, "name": "tmtz"}, {"academic": false, "aliases": [], "country": "RU", "id": 27625, "name": "dRem"}, {"academic": false, "aliases": [], "country": "RU", "id": 28012, "name": "Abracada"}, {"academic": false, "aliases": [], "country": "RU", "id": 28322, "name": "PetUsKal"}, {"academic": false, "aliases": [], "country": "RU", "id": 28496, "name": "Unbroken Crackers"}, {"academic": false, "aliases": [], "country": "RU", "id": 29301, "name": "RDNCCMTCRACK"}, {"academic": false, "aliases": ["SFmodern"], "country": "RU", "id": 29501, "name": "StarFire"}, {"academic": true, "aliases": [], "country": "RU", "id": 29586, "name": "Dragon116rus"}, {"academic": false, "aliases": [], "country": "RU", "id": 29795, "name": "Permission Denied"}, {"academic": true, "aliases": ["TAWESN"], "country": "RU", "id": 29798, "name": "TeamWithSuchNameAlreadyExists"}, {"academic": false, "aliases": [], "country": "RU", "id": 29825, "name": "shakalCTF"}, {"academic": false, "aliases": [], "country": "RU", "id": 29952, "name": "OmsK28team"}, {"academic": true, "aliases": [], "country": "RU", "id": 29953, "name": "E-Vapers"}, {"academic": false, "aliases": [], "country": "RU", "id": 29974, "name": "M*CTF-team"}, {"academic": true, "aliases": [], "country": "RU", "id": 29975, "name": "B04Ka::G3ng"}, {"academic": true, "aliases": [], "country": "RU", "id": 30087, "name": "KXTI"}, {"academic": false, "aliases": [], "country": "RU", "id": 30528, "name": "knastu.IBAS"}, {"academic": true, "aliases": [], "country": "RU", "id": 30541, "name": "PaleMenI"}, {"academic": true, "aliases": [], "country": "RU", "id": 30547, "name": "bdd"}, {"academic": false, "aliases": ["0xA3"], "country": "RU", "id": 30550, "name": "True0xA3"}, {"academic": false, "aliases": [], "country": "RU", "id": 30617, "name": "DangerousSignal"}, {"academic": true, "aliases": [], "country": "RU", "id": 30766, "name": "preceq"}, {"academic": false, "aliases": [], "country": "RU", "id": 30915, "name": "hxx"}, {"academic": false, "aliases": [], "country": "RU", "id": 30925, "name": "The Elite Firm"}, {"academic": false, "aliases": [], "country": "RU", "id": 31001, "name": "/dev"}, {"academic": false, "aliases": [], "country": "RU", "id": 31253, "name": "Kti"}, {"academic": true, "aliases": [], "country": "RU", "id": 31272, "name": "CrackingDucks"}, {"academic": false, "aliases": [], "country": "RU", "id": 31296, "name": "small_victories"}, {"academic": true, "aliases": [], "country": "RU", "id": 31297, "name": "/7343|-|b|<|/|"}, {"academic": false, "aliases": [], "country": "RU", "id": 31298, "name": "Yuronik007"}, {"academic": false, "aliases": [], "country": "RU", "id": 31304, "name": "skogkoden"}, {"academic": false, "aliases": [], "country": "RU", "id": 31307, "name": "Special Research Team"}, {"academic": false, "aliases": [], "country": "RU", "id": 31321, "name": "WioR"}, {"academic": false, "aliases": [], "country": "RU", "id": 31325, "name": "Cv4k5ie"}, {"academic": false, "aliases": [], "country": "RU", "id": 31363, "name": "DrunkenMonkey"}, {"academic": true, "aliases": [], "country": "RU", "id": 31366, "name": "tiger_team_24\\7"}, {"academic": true, "aliases": ["CD"], "country": "RU", "id": 31514, "name": "Cracking Ducks"}, {"academic": false, "aliases": [], "country": "RU", "id": 31643, "name": "Kilometerpreter"}, {"academic": false, "aliases": [], "country": "RU", "id": 31645, "name": "T3rn4ry_c0d3"}, {"academic": false, "aliases": [], "country": "RU", "id": 31648, "name": "Dayl"}, {"academic": true, "aliases": [], "country": "RU", "id": 31680, "name": "Ten-strike"}, {"academic": false, "aliases": [], "country": "RU", "id": 31684, "name": "Mongolian Vowel Separator"}, {"academic": true, "aliases": [], "country": "RU", "id": 31685, "name": "MSHP SSL: The X Firm"}, {"academic": false, "aliases": [], "country": "RU", "id": 32093, "name": "ctf.bi.zone"}, {"academic": true, "aliases": ["Perepodvysomtrit"], "country": "RU", "id": 32124, "name": "\u041f\u0435\u0440\u0435\u043f\u043e\u0434\u0432\u044b\u0441\u043c\u043e\u0442\u0440\u0438\u0442"}, {"academic": false, "aliases": [], "country": "RU", "id": 32145, "name": "Quareal Security Research"}, {"academic": false, "aliases": [], "country": "RU", "id": 32147, "name": "n@pster"}, {"academic": false, "aliases": [], "country": "RU", "id": 32152, "name": "Undefined Behavior"}, {"academic": false, "aliases": [], "country": "RU", "id": 32168, "name": "KXTI_111"}, {"academic": false, "aliases": [], "country": "RU", "id": 32191, "name": "KLHT"}, {"academic": false, "aliases": [], "country": "RU", "id": 32291, "name": "BinTeam"}, {"academic": false, "aliases": [], "country": "RU", "id": 32292, "name": "CyberPython"}, {"academic": false, "aliases": [], "country": "RU", "id": 32295, "name": "omg"}, {"academic": true, "aliases": [], "country": "RU", "id": 32509, "name": "Super Massive Black Full-Metall Bacon Pancakes with Apple Jam"}, {"academic": false, "aliases": [], "country": "RU", "id": 32532, "name": "PotatoTeam"}, {"academic": true, "aliases": [], "country": "RU", "id": 32595, "name": "BlackTrack"}, {"academic": false, "aliases": [], "country": "RU", "id": 32599, "name": "test404"}, {"academic": false, "aliases": [], "country": "RU", "id": 32601, "name": "sKooL_HT"}, {"academic": true, "aliases": [], "country": "RU", "id": 32604, "name": "\u041f\u043e\u043f\u043b\u043e\u0441\u0435\u0440\u044b"}, {"academic": false, "aliases": [], "country": "RU", "id": 32627, "name": "Team STFU"}, {"academic": false, "aliases": [], "country": "RU", "id": 32694, "name": "one_time"}, {"academic": true, "aliases": [], "country": "RU", "id": 32701, "name": "Lullaby"}, {"academic": false, "aliases": [], "country": "RU", "id": 32775, "name": "RUSSIA"}, {"academic": true, "aliases": ["Thr33Way"], "country": "RU", "id": 32789, "name": "CalicemPulmenti"}, {"academic": false, "aliases": ["krongrah"], "country": "RU", "id": 33139, "name": "qahnaarin"}, {"academic": false, "aliases": [], "country": "RU", "id": 33354, "name": "CheatHunters"}, {"academic": false, "aliases": [], "country": "RU", "id": 33360, "name": "ProtectionSZ"}, {"academic": false, "aliases": [], "country": "RU", "id": 33812, "name": "old f..ckers"}, {"academic": false, "aliases": [], "country": "RU", "id": 33849, "name": "[DnO]"}, {"academic": false, "aliases": [], "country": "RU", "id": 33898, "name": "WhAt_is_CTF"}, {"academic": false, "aliases": [], "country": "RU", "id": 33985, "name": "Filthy Thr33"}, {"academic": false, "aliases": [], "country": "RU", "id": 33996, "name": "CircumfleX"}, {"academic": false, "aliases": [], "country": "RU", "id": 34006, "name": "MTYoke"}, {"academic": false, "aliases": [], "country": "RU", "id": 34014, "name": "Reworr"}, {"academic": false, "aliases": [], "country": "RU", "id": 34028, "name": "KansasCityShuffle"}, {"academic": false, "aliases": [], "country": "RU", "id": 34163, "name": "alicio"}, {"academic": false, "aliases": [], "country": "RU", "id": 34463, "name": "Hackforces"}, {"academic": true, "aliases": ["CTD_Elite"], "country": "RU", "id": 34465, "name": "CTD Elite"}, {"academic": false, "aliases": [], "country": "RU", "id": 34480, "name": "BE4HOXVII"}, {"academic": true, "aliases": [], "country": "RU", "id": 34856, "name": "noobs4winToo"}, {"academic": false, "aliases": [], "country": "RU", "id": 35260, "name": "ims0rry"}, {"academic": false, "aliases": [], "country": "RU", "id": 35559, "name": "IlluminatenOrden"}, {"academic": true, "aliases": [], "country": "RU", "id": 35562, "name": "d34dl1n3"}, {"academic": true, "aliases": [], "country": "RU", "id": 35585, "name": "KitKot"}, {"academic": true, "aliases": [], "country": "RU", "id": 35596, "name": "Civil Defence"}, {"academic": false, "aliases": [], "country": "RU", "id": 36135, "name": "Hackeri"}, {"academic": false, "aliases": [], "country": "RU", "id": 36140, "name": "GFNP"}, {"academic": false, "aliases": [], "country": "RU", "id": 36146, "name": "SWSU_Team"}, {"academic": false, "aliases": [], "country": "RU", "id": 36167, "name": "UNN_Team"}, {"academic": false, "aliases": [], "country": "RU", "id": 36185, "name": "SilaLunnoyPrismy"}, {"academic": false, "aliases": [], "country": "RU", "id": 37731, "name": "SecureMature"}, {"academic": true, "aliases": [], "country": "RU", "id": 37739, "name": "WD-40"}, {"academic": true, "aliases": [], "country": "RU", "id": 37758, "name": "CityF"}, {"academic": false, "aliases": [], "country": "RU", "id": 37766, "name": "Krasnodar"}, {"academic": false, "aliases": [], "country": "RU", "id": 38067, "name": "Kngteam"}, {"academic": false, "aliases": [], "country": "RU", "id": 38083, "name": "CPanda"}, {"academic": false, "aliases": [], "country": "RU", "id": 38092, "name": "municipal"}, {"academic": false, "aliases": [], "country": "RU", "id": 38115, "name": "\u0424\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u0449\u0438\u043a\u0438 \u0441\u043e \u0448\u0442\u0430\u043d\u0433\u043e\u0439"}, {"academic": true, "aliases": [], "country": "RU", "id": 38534, "name": "Comic_Sans_Dream_Team"}, {"academic": false, "aliases": [], "country": "RU", "id": 38544, "name": "m0p3D"}, {"academic": true, "aliases": [], "country": "RU", "id": 38551, "name": "Script Kiddie Fan Club"}, {"academic": false, "aliases": [], "country": "RU", "id": 39316, "name": "Shodan"}, {"academic": false, "aliases": [], "country": "RU", "id": 39354, "name": "KXTI-7"}, {"academic": false, "aliases": [], "country": "RU", "id": 39361, "name": "KXTI_ib"}, {"academic": false, "aliases": [], "country": "RU", "id": 39566, "name": "onkyo"}, {"academic": false, "aliases": [], "country": "RU", "id": 39582, "name": "HackersEngineers"}, {"academic": true, "aliases": [], "country": "RU", "id": 39593, "name": "KXTI_team"}, {"academic": true, "aliases": [], "country": "RU", "id": 39619, "name": "MosPolytech"}, {"academic": false, "aliases": [], "country": "RU", "id": 39621, "name": "r3born"}, {"academic": false, "aliases": [], "country": "RU", "id": 39632, "name": "KXTI_JJ"}, {"academic": false, "aliases": [], "country": "RU", "id": 39634, "name": "KXTI264"}, {"academic": false, "aliases": [], "country": "RU", "id": 39635, "name": "KXTI_yes"}, {"academic": false, "aliases": [], "country": "RU", "id": 39641, "name": "KXTI_17"}, {"academic": false, "aliases": [], "country": "RU", "id": 39649, "name": "KXTI-Q"}, {"academic": false, "aliases": [], "country": "RU", "id": 39661, "name": "SaBerTooths"}]
+[
+    {
+        "academic": false,
+        "aliases": [
+            "MiTeam",
+            ".MiT."
+        ],
+        "country": "RU",
+        "id": 1,
+        "name": "MiT"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "smokedchicken"
+        ],
+        "country": "RU",
+        "id": 2,
+        "name": "Smoked Chicken"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "leetmore",
+            "CIT",
+            "CIT CTF",
+            "citctf",
+            "Leet_More"
+        ],
+        "country": "RU",
+        "id": 3,
+        "name": "Leet More"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 312,
+        "name": "SSH"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "RDot",
+            "RDotOrg",
+            "Guests"
+        ],
+        "country": "RU",
+        "id": 339,
+        "name": "Rdot.org"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "[Lobotomy]"
+        ],
+        "country": "RU",
+        "id": 374,
+        "name": "Lobotomy"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 386,
+        "name": "WildRide"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "VLGU"
+        ],
+        "country": "RU",
+        "id": 405,
+        "name": "Honeypot"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 469,
+        "name": "ufologists"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "Ko1basta"
+        ],
+        "country": "RU",
+        "id": 496,
+        "name": "Koibasta"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 518,
+        "name": "dalbo"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "\u0425\u0430\u043a\u0435\u0440\u0414\u043e\u043c"
+        ],
+        "country": "RU",
+        "id": 552,
+        "name": "HackerDom"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 557,
+        "name": "SiBears"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "censored"
+        ],
+        "country": "RU",
+        "id": 558,
+        "name": "[censored]"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "peterpwn"
+        ],
+        "country": "RU",
+        "id": 566,
+        "name": "PeterPEN"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 586,
+        "name": "Bushwhackers"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "Antichat Team",
+            "Antichat.ru"
+        ],
+        "country": "RU",
+        "id": 826,
+        "name": "Antichat"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 859,
+        "name": "Inception"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "BAD Magic"
+        ],
+        "country": "RU",
+        "id": 988,
+        "name": "BAD_Magic"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "LeetChicken",
+            "MoreSmokedLeetChicken",
+            "Leet Chicken",
+            "MSLC",
+            "MoreSmoked LeetChicken"
+        ],
+        "country": "RU",
+        "id": 1005,
+        "name": "More Smoked Leet Chicken"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 1006,
+        "name": "IV"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 1044,
+        "name": "0day"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "MagicHat",
+            "Magic-Hat"
+        ],
+        "country": "RU",
+        "id": 1398,
+        "name": "Magic Hat"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "BECHED",
+            "BECHED-ahack.ru"
+        ],
+        "country": "RU",
+        "id": 1404,
+        "name": "DAGESTAN"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "H34dump"
+        ],
+        "country": "RU",
+        "id": 1411,
+        "name": "Headump"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 1413,
+        "name": "Noobs4Win"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 1414,
+        "name": "-=HQS=-"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 1416,
+        "name": "Hack Club"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 1418,
+        "name": "SlashDotDash"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 1425,
+        "name": "Singularity"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 1427,
+        "name": "xBh"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "RooterX, RooterX2",
+            "RooterX2",
+            "ShamanJD"
+        ],
+        "country": "RU",
+        "id": 1434,
+        "name": "RooterX"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "QBiT"
+        ],
+        "country": "RU",
+        "id": 1445,
+        "name": "Yozik"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 1739,
+        "name": "newteam"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "[DrunkenPandas]",
+            "TechnoPandas",
+            "DrnknPnds"
+        ],
+        "country": "RU",
+        "id": 1946,
+        "name": "[TechnoPandas]"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 2481,
+        "name": "HD || ~HD"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "ctftime qa team 2",
+            "ctftime qa team 3",
+            "CTFtime.org",
+            "CTFtime"
+        ],
+        "country": "RU",
+        "id": 2493,
+        "name": "ctftime qa team"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "movsx",
+            "leo.movsx"
+        ],
+        "country": "RU",
+        "id": 2502,
+        "name": "leo"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 2503,
+        "name": "amigo"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "rnnf",
+            "ReallyNamesFor",
+            "RNF"
+        ],
+        "country": "RU",
+        "id": 2540,
+        "name": "ReallyNonamesFor"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "KEVA Team",
+            "[Keva]",
+            "k3v4"
+        ],
+        "country": "RU",
+        "id": 2980,
+        "name": "keva"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "MSLM",
+            "More_Small_Leet_More"
+        ],
+        "country": "RU",
+        "id": 2998,
+        "name": "More Small Leet More"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 3205,
+        "name": "BSC"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "rootroot",
+            "rootroot.org",
+            "r00t0vi4"
+        ],
+        "country": "RU",
+        "id": 3213,
+        "name": "rootroot.ru"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 3220,
+        "name": "XOROR"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "balcr3w",
+            "ReallyBalalaika",
+            "BalalaikaCrew",
+            "Balalaika Cr3w"
+        ],
+        "country": "RU",
+        "id": 3257,
+        "name": "BalalaikaCr3w"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 3258,
+        "name": "HazaNaLeni"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 3307,
+        "name": "Gifts"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 3335,
+        "name": "Hardc0de"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 3589,
+        "name": "ALIAS FOR NEW FLAG"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 3593,
+        "name": "Gre4ka"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 3630,
+        "name": "Akara"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 3794,
+        "name": "fbi-danil"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 3798,
+        "name": "megamo$k"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 3890,
+        "name": "\u0444\u0435\u0434\u0435\u0440\u0430\u043b"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "Team.GOV",
+            "l0rd",
+            "OMGACM",
+            "XZTeam",
+            "Ivanov"
+        ],
+        "country": "RU",
+        "id": 3891,
+        "name": "Pashok"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 3906,
+        "name": "v0rt3x"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 3910,
+        "name": "Kamazi"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 4032,
+        "name": "gamma"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 4075,
+        "name": "Syndicate"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 4076,
+        "name": "FreeThrow"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 4176,
+        "name": "DNO"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "Brine"
+        ],
+        "country": "RU",
+        "id": 4292,
+        "name": "Sandbox"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 4351,
+        "name": "rwx"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "'\"><script>alert('Hello from Abr1k0s')</script>"
+        ],
+        "country": "RU",
+        "id": 4354,
+        "name": "Abr1k0s"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 4358,
+        "name": "1ns1ght"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 4396,
+        "name": "ReseArchers"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 4397,
+        "name": "Crypto Knights"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 4402,
+        "name": "KoiBastard"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 4418,
+        "name": "heX"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 4422,
+        "name": "MaPTbIH-team"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "LegalSpies",
+            "Legal Spies",
+            "Cat And Fish",
+            "CatAndFish"
+        ],
+        "country": "RU",
+        "id": 4428,
+        "name": "Cat-n-Fish"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 4818,
+        "name": "EpicTeam"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "TRex_"
+        ],
+        "country": "RU",
+        "id": 4861,
+        "name": "TRex"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "whitehatlab",
+            "spbru"
+        ],
+        "country": "RU",
+        "id": 4923,
+        "name": "spb_ru"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 5094,
+        "name": "to_remove"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 5141,
+        "name": "UTMN"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 5154,
+        "name": "sdss.pro"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 5170,
+        "name": "BeLove"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 5191,
+        "name": "Green Bats"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 5319,
+        "name": "DevBy0"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 6336,
+        "name": "v2m"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 6337,
+        "name": "Digital"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 6343,
+        "name": "Magic-Hand"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 6349,
+        "name": "TSU"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 6353,
+        "name": "banderlogi"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "novaexpress",
+            "nova-ex"
+        ],
+        "country": "RU",
+        "id": 6355,
+        "name": "Nova Express"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 6471,
+        "name": "4horsemen"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "BS"
+        ],
+        "country": "RU",
+        "id": 6475,
+        "name": "BrainStorm"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "SUSlo",
+            "EpicFairPlay"
+        ],
+        "country": "RU",
+        "id": 6502,
+        "name": "SUSlo.PAS"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 6516,
+        "name": "Cerberus"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "IT Crowd _",
+            "IT Crowd"
+        ],
+        "country": "RU",
+        "id": 6540,
+        "name": "ITCrowd"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "7h3_0n3_734m"
+        ],
+        "country": "RU",
+        "id": 6545,
+        "name": "The one team"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 6658,
+        "name": "0x1FC48"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 6716,
+        "name": "HazaNaMone"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 6732,
+        "name": "KrasHackTeam"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 6739,
+        "name": "Liberada Ensaladera"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 6788,
+        "name": "GetToDaChoppa"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 6789,
+        "name": "YoungFox"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 6971,
+        "name": "QBiT"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7005,
+        "name": "samarahackgroup"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "dv_team",
+            "Destructive 0xAEAE",
+            "Phil9l",
+            "Destructive_Voice",
+            "DestructiveVoice"
+        ],
+        "country": "RU",
+        "id": 7527,
+        "name": "Destructive Voice"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7531,
+        "name": "UscherbGuild"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7565,
+        "name": "some_usual_team"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7571,
+        "name": "DagEx"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7618,
+        "name": "CommeIlFaut"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7653,
+        "name": "gek0n"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7909,
+        "name": "hashtag"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7915,
+        "name": "IFIT"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7917,
+        "name": "NetHack"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7918,
+        "name": "YetAnotherTeam"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7921,
+        "name": "Akara2"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7922,
+        "name": "s_n"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7923,
+        "name": "Hotel squad"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7924,
+        "name": "MeGa_Mo$k_New"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7925,
+        "name": "Kiddies' Band"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 7930,
+        "name": "SUSlo.dump"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "\u041c\u044f\u0433\u043a\u0438\u0439 \u043e\u0442\u0431\u043e\u0439",
+            "LightsOut",
+            "Lights_Out"
+        ],
+        "country": "RU",
+        "id": 7931,
+        "name": "Lights Out"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7932,
+        "name": "\u041a\u043e\u0442\u0430\u043d\u044b"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7934,
+        "name": "Brizz"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "SnowNiggers"
+        ],
+        "country": "RU",
+        "id": 7935,
+        "name": "Snow_Niggers"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "placeyouradhere",
+            "place_your_ad_h"
+        ],
+        "country": "RU",
+        "id": 7938,
+        "name": "place your ad here"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7984,
+        "name": "SNK"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7987,
+        "name": "ALINA_MYR_MYR"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 7992,
+        "name": "crabs"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 8092,
+        "name": "\u0421yberguru"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 8100,
+        "name": "Koibasta Young"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 8106,
+        "name": "GreatEvent"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 8112,
+        "name": "Mu574ng"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 8118,
+        "name": "d4d"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 8165,
+        "name": "IBAS"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 8192,
+        "name": "KernelPanic"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 8205,
+        "name": "alexnikleo"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 8725,
+        "name": "bull's eggs"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 8726,
+        "name": "gchebanov_team"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 8730,
+        "name": "Kotany"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "Yet Another Team",
+            "YetAnotherTea",
+            "(\u256f\u00b0\u25a1\u00b0\uff09\u256f\ufe35 \u253b\u2501\u253b"
+        ],
+        "country": "RU",
+        "id": 8751,
+        "name": "Curiosity"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 8898,
+        "name": "\u00af\\_(\u30c4)_/\u00af"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 9136,
+        "name": "CIDA"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 10149,
+        "name": "Perpertum"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 10158,
+        "name": "0Sec"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 10175,
+        "name": "ked"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 10180,
+        "name": "Aple"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "karelia"
+        ],
+        "country": "RU",
+        "id": 10254,
+        "name": "k2701"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 10259,
+        "name": "f0rest"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 10917,
+        "name": "/\\/ebel"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 11362,
+        "name": "HSE Random Shuffle"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 11376,
+        "name": "I am deF Fck z_ONE(1)"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 11389,
+        "name": "Flying Crocs"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 11391,
+        "name": "Search Flag Agency"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 11393,
+        "name": "P1peZ"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 11397,
+        "name": "SyktGU-InfoSec"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 11467,
+        "name": "ZumZoom"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 11593,
+        "name": "Call of the Molly"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 11760,
+        "name": "M E M E B O Y S 2007 ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 11763,
+        "name": "kb"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 11844,
+        "name": "SmashedButWinners"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 11850,
+        "name": "vnp_obsujdaem"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 11916,
+        "name": "PUFe"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 11927,
+        "name": "LFC"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 12601,
+        "name": "JoyTeam"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "JacobJacob",
+            "gjamdev"
+        ],
+        "country": "RU",
+        "id": 12618,
+        "name": "Jacob"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 12685,
+        "name": "12345"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 12748,
+        "name": "\u041a\u043e\u043c\u0430\u043d\u0434\u0410 \u041a\u0438\u0441\u044b"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 13603,
+        "name": "CLASSIFIED"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 13606,
+        "name": "BigBang"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 13607,
+        "name": "srsly"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 13666,
+        "name": "MFK"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 13673,
+        "name": "AllahuAkbar"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 14052,
+        "name": "0-day"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 14063,
+        "name": "Fluent"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 14149,
+        "name": "vinnipuh"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 14152,
+        "name": "\u0421ollapsar"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 14161,
+        "name": "W3_h4ck_4_fun"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 14177,
+        "name": "Team of True Hackers"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 14880,
+        "name": "DarkSideCookie"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 15168,
+        "name": "jughead"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 15703,
+        "name": "KEKbusters"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 15705,
+        "name": "kzi13team"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "Yellowstone Yachtsclub of Yawning",
+            "LC?BC",
+            "LCzBC",
+            "LC/BC",
+            "lcbc",
+            "\u0441\u044b\u0441",
+            "cblc",
+            "CbIC",
+            "LC+BC"
+        ],
+        "country": "RU",
+        "id": 15726,
+        "name": "LC\u21afBC"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 16082,
+        "name": "pysch"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 16095,
+        "name": "hellman"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 16125,
+        "name": "ThunderClap"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 16168,
+        "name": "Barklay"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 16172,
+        "name": "SharLike"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "4lh4l4l4l4y"
+        ],
+        "country": "RU",
+        "id": 16335,
+        "name": "4\u043b\u04454\u043b4\u043b4\u043b4\u0439"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 16534,
+        "name": "Honey_Pot"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 16550,
+        "name": "PENTESTIT"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 16561,
+        "name": "Inventio"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 16686,
+        "name": "UNDERSOWER"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 16696,
+        "name": "dasdasdsds"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 16780,
+        "name": "not_tw"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 16796,
+        "name": "M-3"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 16799,
+        "name": "Okey,Google!"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 16800,
+        "name": "Cryptoland"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 16801,
+        "name": "\u041a\u043e\u0440\u043f\u043e\u0440\u0430\u0446\u0438\u044f \u0438\u0433\u0440"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 16813,
+        "name": "axp5"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 16814,
+        "name": "Pi bits of RSA"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 16834,
+        "name": "ni4osi"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "Butthurt Security"
+        ],
+        "country": "RU",
+        "id": 16864,
+        "name": "c21h30o2"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 16965,
+        "name": "lalka3"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 17300,
+        "name": "goCTFONWeekdays"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "The_invulnerable",
+            "lnvulnerable",
+            "1nvu1ner4b1e",
+            "The invulnerable"
+        ],
+        "country": "RU",
+        "id": 17336,
+        "name": "Invulnerable"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 17660,
+        "name": "MEPHI_Students"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 17676,
+        "name": "SyktSU 2015 CTF"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "U_K"
+        ],
+        "country": "RU",
+        "id": 17705,
+        "name": "Undefinded Keys"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 17723,
+        "name": "just4funteam"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 19041,
+        "name": "Fomka"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 19046,
+        "name": "805"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 19048,
+        "name": "KXTI_4"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 19080,
+        "name": "AwesomeNoobTeam"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 19169,
+        "name": "KuBik"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 19187,
+        "name": "TeamGame"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 19880,
+        "name": "BoobleGum"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 20033,
+        "name": "KXTI_1"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 20494,
+        "name": "fasdfas"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 20495,
+        "name": "Gampr"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 20509,
+        "name": "AUE"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 20543,
+        "name": "HelloWrong"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 20550,
+        "name": "Undefined[Ufologists]"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "shadow-servants",
+            "Shadow_Servants",
+            "shadowservants"
+        ],
+        "country": "RU",
+        "id": 20740,
+        "name": "Shadow Servants"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 20747,
+        "name": "HOV"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 20751,
+        "name": "PHTeam"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 20770,
+        "name": "Lalochka"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 20893,
+        "name": "Valar Morghulis"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 20894,
+        "name": "Shaggy Bumps"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "Jiesus Christ Superstar"
+        ],
+        "country": "RU",
+        "id": 20903,
+        "name": "JCS"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "Higher School of Exploits",
+            "Corrupted_Reflection",
+            "CorruptedReflection",
+            "Corrupted-Reflection"
+        ],
+        "country": "RU",
+        "id": 20904,
+        "name": "Corrupted Reflection"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 20907,
+        "name": "bicycle_overdrive"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 20909,
+        "name": "KXTI_1221"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 21124,
+        "name": "Cybers of Vector"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "voidhack0x42"
+        ],
+        "country": "RU",
+        "id": 21137,
+        "name": "VoidHack"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 21184,
+        "name": "DjigIT"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 21193,
+        "name": "The Firm"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 21645,
+        "name": "h4rdF0rc3"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 21651,
+        "name": "banditi"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 21652,
+        "name": "sigorilla"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 21662,
+        "name": "coolNULL"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 21713,
+        "name": "YanTayga"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 21833,
+        "name": "Absurd"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 21850,
+        "name": "err0r-451"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 21984,
+        "name": "tank1st99"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 22020,
+        "name": "kek"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 22022,
+        "name": "espresso"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 22038,
+        "name": "Espacio"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 22041,
+        "name": "xeksec"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "[S_W]"
+        ],
+        "country": "RU",
+        "id": 22046,
+        "name": "sudo_win"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "a1exdandy_rumi"
+        ],
+        "country": "RU",
+        "id": 22049,
+        "name": "a1exdandy"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 22232,
+        "name": "Sindikat"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 22242,
+        "name": "Gentlemens"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 22261,
+        "name": "Briner"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 22269,
+        "name": "rcc.zone"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 22331,
+        "name": "MSTUCA"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 22350,
+        "name": "rays"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 22378,
+        "name": "c3ret"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 22552,
+        "name": "MTFBWY"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 24067,
+        "name": "MITHT"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 24077,
+        "name": "alert1"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "[EVA]"
+        ],
+        "country": "RU",
+        "id": 24109,
+        "name": "Eva"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 24351,
+        "name": "Hexistadsdnce"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "Hexistance"
+        ],
+        "country": "RU",
+        "id": 24354,
+        "name": "Hexistence"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 24355,
+        "name": "pwnedbyeliteh4x0r"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 24512,
+        "name": "ztf"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 24700,
+        "name": "NoJava"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 24738,
+        "name": "SiberianFrost"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 26107,
+        "name": "Leet ^_^ Less"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 26118,
+        "name": "Swampers"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 26237,
+        "name": "sergey122"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 26240,
+        "name": "c3retc3"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 26257,
+        "name": "homies"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 26622,
+        "name": "pechenko"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 26647,
+        "name": "KingAndSlaves"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 26660,
+        "name": "COTIP"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 26713,
+        "name": "StonedPanda"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 26829,
+        "name": "PHDays"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 26848,
+        "name": "w3bD0lph1n"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 26883,
+        "name": "Basically Unknown"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 26884,
+        "name": "bitaps.com"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 27059,
+        "name": "YoungTeam"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 27094,
+        "name": "VolgaCTF.org"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 27095,
+        "name": "RTeam"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 27399,
+        "name": "Corrupted"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "mthrhckrs"
+        ],
+        "country": "RU",
+        "id": 27433,
+        "name": "motherhackers"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 27477,
+        "name": "mereana"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "tmtz-school"
+        ],
+        "country": "RU",
+        "id": 27515,
+        "name": "tmtz"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 27625,
+        "name": "dRem"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 28012,
+        "name": "Abracada"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 28322,
+        "name": "PetUsKal"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 28496,
+        "name": "Unbroken Crackers"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 29301,
+        "name": "RDNCCMTCRACK"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "SFmodern"
+        ],
+        "country": "RU",
+        "id": 29501,
+        "name": "StarFire"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 29586,
+        "name": "Dragon116rus"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 29795,
+        "name": "Permission Denied"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "TAWESN"
+        ],
+        "country": "RU",
+        "id": 29798,
+        "name": "TeamWithSuchNameAlreadyExists"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 29825,
+        "name": "shakalCTF"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 29952,
+        "name": "OmsK28team"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 29953,
+        "name": "E-Vapers"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 29974,
+        "name": "M*CTF-team"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 29975,
+        "name": "B04Ka::G3ng"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 30087,
+        "name": "KXTI"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 30528,
+        "name": "knastu.IBAS"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 30541,
+        "name": "PaleMenI"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 30547,
+        "name": "bdd"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "0xA3"
+        ],
+        "country": "RU",
+        "id": 30550,
+        "name": "True0xA3"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 30617,
+        "name": "DangerousSignal"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 30766,
+        "name": "preceq"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 30915,
+        "name": "hxx"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 30925,
+        "name": "The Elite Firm"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 31001,
+        "name": "/dev"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 31253,
+        "name": "Kti"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 31272,
+        "name": "CrackingDucks"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 31296,
+        "name": "small_victories"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 31297,
+        "name": "/7343|-|b|<|/|"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 31298,
+        "name": "Yuronik007"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 31304,
+        "name": "skogkoden"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 31307,
+        "name": "Special Research Team"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 31321,
+        "name": "WioR"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 31325,
+        "name": "Cv4k5ie"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 31363,
+        "name": "DrunkenMonkey"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 31366,
+        "name": "tiger_team_24\\7"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "CD"
+        ],
+        "country": "RU",
+        "id": 31514,
+        "name": "Cracking Ducks"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 31643,
+        "name": "Kilometerpreter"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 31645,
+        "name": "T3rn4ry_c0d3"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 31648,
+        "name": "Dayl"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 31680,
+        "name": "Ten-strike"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 31684,
+        "name": "Mongolian Vowel Separator"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 31685,
+        "name": "MSHP SSL: The X Firm"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 32093,
+        "name": "ctf.bi.zone"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "Perepodvysomtrit"
+        ],
+        "country": "RU",
+        "id": 32124,
+        "name": "\u041f\u0435\u0440\u0435\u043f\u043e\u0434\u0432\u044b\u0441\u043c\u043e\u0442\u0440\u0438\u0442"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 32145,
+        "name": "Quareal Security Research"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 32147,
+        "name": "n@pster"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 32152,
+        "name": "Undefined Behavior"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 32168,
+        "name": "KXTI_111"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 32191,
+        "name": "KLHT"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 32291,
+        "name": "BinTeam"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 32292,
+        "name": "CyberPython"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 32295,
+        "name": "omg"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 32509,
+        "name": "Super Massive Black Full-Metall Bacon Pancakes with Apple Jam"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 32532,
+        "name": "PotatoTeam"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 32595,
+        "name": "BlackTrack"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 32599,
+        "name": "test404"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 32601,
+        "name": "sKooL_HT"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 32604,
+        "name": "\u041f\u043e\u043f\u043b\u043e\u0441\u0435\u0440\u044b"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 32627,
+        "name": "Team STFU"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 32694,
+        "name": "one_time"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 32701,
+        "name": "Lullaby"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 32775,
+        "name": "RUSSIA"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "Thr33Way"
+        ],
+        "country": "RU",
+        "id": 32789,
+        "name": "CalicemPulmenti"
+    },
+    {
+        "academic": false,
+        "aliases": [
+            "krongrah"
+        ],
+        "country": "RU",
+        "id": 33139,
+        "name": "qahnaarin"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 33354,
+        "name": "CheatHunters"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 33360,
+        "name": "ProtectionSZ"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 33812,
+        "name": "old f..ckers"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 33849,
+        "name": "[DnO]"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 33898,
+        "name": "WhAt_is_CTF"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 33985,
+        "name": "Filthy Thr33"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 33996,
+        "name": "CircumfleX"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 34006,
+        "name": "MTYoke"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 34014,
+        "name": "Reworr"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 34028,
+        "name": "KansasCityShuffle"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 34163,
+        "name": "alicio"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 34463,
+        "name": "Hackforces"
+    },
+    {
+        "academic": true,
+        "aliases": [
+            "CTD_Elite"
+        ],
+        "country": "RU",
+        "id": 34465,
+        "name": "CTD Elite"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 34480,
+        "name": "BE4HOXVII"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 34856,
+        "name": "noobs4winToo"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 35260,
+        "name": "ims0rry"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 35559,
+        "name": "IlluminatenOrden"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 35562,
+        "name": "d34dl1n3"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 35585,
+        "name": "KitKot"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 35596,
+        "name": "Civil Defence"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 36135,
+        "name": "Hackeri"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 36140,
+        "name": "GFNP"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 36146,
+        "name": "SWSU_Team"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 36167,
+        "name": "UNN_Team"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 36185,
+        "name": "SilaLunnoyPrismy"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 37731,
+        "name": "SecureMature"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 37739,
+        "name": "WD-40"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 37758,
+        "name": "CityF"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 37766,
+        "name": "Krasnodar"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 38067,
+        "name": "Kngteam"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 38083,
+        "name": "CPanda"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 38092,
+        "name": "municipal"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 38115,
+        "name": "\u0424\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u0449\u0438\u043a\u0438 \u0441\u043e \u0448\u0442\u0430\u043d\u0433\u043e\u0439"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 38534,
+        "name": "Comic_Sans_Dream_Team"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 38544,
+        "name": "m0p3D"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 38551,
+        "name": "Script Kiddie Fan Club"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 39316,
+        "name": "Shodan"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 39354,
+        "name": "KXTI-7"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 39361,
+        "name": "KXTI_ib"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 39566,
+        "name": "onkyo"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 39582,
+        "name": "HackersEngineers"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 39593,
+        "name": "KXTI_team"
+    },
+    {
+        "academic": true,
+        "aliases": [],
+        "country": "RU",
+        "id": 39619,
+        "name": "MosPolytech"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 39621,
+        "name": "r3born"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 39632,
+        "name": "KXTI_JJ"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 39634,
+        "name": "KXTI264"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 39635,
+        "name": "KXTI_yes"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 39641,
+        "name": "KXTI_17"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 39649,
+        "name": "KXTI-Q"
+    },
+    {
+        "academic": false,
+        "aliases": [],
+        "country": "RU",
+        "id": 39661,
+        "name": "SaBerTooths"
+    }
+]
