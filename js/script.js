@@ -11,7 +11,7 @@ $( document ).ready(function() {
 
       document.getElementById("t_region").innerHTML = regions["region"+paths[$(this).attr("id")]].name;
       document.getElementById("t_teams").innerHTML = regions["region"+paths[$(this).attr("id")]].team_list;
-      document.getElementById("t_cups").innerHTML = regions["region"+paths[$(this).attr("id")]].cups_list;
+      document.getElementById("t_cups").innerHTML = regions["region"+paths[$(this).attr("id")]].cup_list;
       // $("#t_region").text(regions["region"+paths[$(this).attr("id")]].name);
       // $("#t_teams").text(regions["region"+paths[$(this).attr("id")]].team_list);
       // $("#t_cups").text(regions["region"+paths[$(this).attr("id")]].cips_list);
@@ -58,7 +58,6 @@ $( document ).ready(function() {
     load_cups(current_region)
   })
 
-
   // $("path").on("click", function () {
   //   if($(this).attr("id") != "russia")
   //   {
@@ -75,21 +74,31 @@ function load_teams(current) {
   block.innerHTML = "";
 
   if(regions[current]["teams"].length == 0) {
-    block.innerHTML = "<h4>В этом регионе нет команд :( Хотите сделать свою? Напишите нам на <a href='mailto:admin@hackforces.com'>почту</a>!</h4>"
+    block.innerHTML = "<h4 style='margin: 10px;'>В этом регионе нет команд :( Хотите создать свою? Напишите нам на <a href='mailto:admin@hackforces.com'>почту</a>!</h4>"
     return;
   }
 
   regions[current]["teams"].forEach(function(item, i) {
     let post_container = document.createElement('div')
-    post_container.className = 'post-container'
+    post_container.className = 'post-container col-12'
     post_container.innerHTML =
-      '<h3 class="post-title">' + item.name +
-      '<span id="post-title-dates"> (с' + item.created + ' года)</span>' +
-      '  <span id="post-title-site"><a href="' + item.site + '">' + item.site + '</a></span></h3>' +
-      '<div class="post-thumb"><img src="'+ item.logo + '" /></div>' +
-      '<div class="post-content"><p>'+ item.info + '</p><p>'+ item.titles + '</p></div>'
+    '<div class="col-12">' +
+      '<div class="row">' +
+        '<div class="col-3 post-title">' + item.name + '</div>' +
+        '<div class="col-2 post-title-dates"> ' + item.created + ' г</div>' +
+        '<div class="col-3"></div>' +
+        '<div class="col-3 post-title-site"><a href="' + item.site + '"> ' + item.site + '</a></div>' +
+      '</div>' +
+      '<div class="row post-content">' +
+        '<div class="xol-xs-12 col-md-3 col-lg-2">' +
+            '<img class="img-responsive" src="' + item.ctftime_logo + '" />' +
+        '</div>' +
+        '<div class="col-xs-12 col-md-9 col-lg-10">' + item.desc + '</div>' +
+      '</div>' +
+    '</div>';
     block.appendChild(post_container)
   });
+
 }
 
 function load_cups(current) {
@@ -97,20 +106,28 @@ function load_cups(current) {
   block.innerHTML = "";
 
   if(regions[current]["cups"].length == 0) {
-    block.innerHTML = "<h4>В этом регионе ещё не проводились турниры. Хотите стать организатором? Напишите нам на <a href='mailto:admin@hackforces.com'>почту</a>!</h4>"
+    block.innerHTML = "<h4 style='margin: 10px;'>В этом регионе ещё не проводились турниры. Хотите стать организатором? Напишите нам на <a href='mailto:admin@hackforces.com'>почту</a>!</h4>"
     return;
   }
 
   regions[current]["cups"].forEach(function(item, i) {
     let post_container = document.createElement('div')
-    post_container.className = 'post-container'
+    post_container.className = 'post-container col-12'
     post_container.innerHTML =
-      '<h3 class="post-title">' + item.name +
-      '<span id="post-title-dates"> ' + item.created + ' года</span>' +
-      '<span id="post-title-site"><a href="' + item.site + '">' + item.site + '</a></span></h3>' +
-      '<div class="post-thumb"><img src="'+ item.logo + '" /></div>' +
-      '<div class="post-content"><p>'+ item.info + '</p></div>'
+    '<div class="col-12">' +
+      '<div class="row">' +
+        '<div class="col-3 post-title">' + item.name + '</div>' +
+        '<div class="col-2 post-title-dates"> ' + item.created + ' г</div>' +
+        '<div class="col-3"></div>' +
+        '<div class="col-3 post-title-site"><a href="' + item.site + '"> ' + item.site + '</a></div>' +
+      '</div>' +
+      '<div class="row post-content">' +
+        '<div class="xol-xs-12 col-md-3 col-lg-2">' +
+            '<img class="img-rounded" src="' + item.logo + '" />' +
+        '</div>' +
+        '<div class="col-xs-12 col-md-9 col-lg-10">' + item.info + '</div>' +
+      '</div>' +
+    '</div>';
     block.appendChild(post_container)
   });
-
 }

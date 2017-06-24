@@ -1,2 +1,5 @@
 backend/teams/
+backend/db/
 *.sql
+backend/*.json
+backend/*.sql

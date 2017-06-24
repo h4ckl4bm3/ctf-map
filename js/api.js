@@ -153,800 +153,893 @@ let paths = {
 };
 
 let regions = {
-  'region1': {
-    'name': 'Республика Адыгея',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region2': {
-    'name': 'Республика Башкортостан',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region3': {
-    'name': 'Республика Бурятия',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region4': {
-    'name': 'Республика Алтай',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region5': {
-    'name': 'Республика Дагестан',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region6': {
-    'name': 'Республика Ингушетия',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region7': {
-    'name': 'Кабардино-Балкарская Республика',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region8': {
-    'name': 'Республика Калмыкия',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region9': {
-    'name': 'Карачаево-Черкесская Республика',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region10': {
-    'name': 'Республика Карелия',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region11': {
-    'name': 'Республика Коми',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region12': {
-    'name': 'Республика Марий Эл',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region13': {
-    'name': 'Республика Мордовия',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region14': {
-    'name': 'Республика Саха',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region15': {
-    'name': 'Северная Осетия',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region16': {
-    'name': 'Республика Татарстан',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region17': {
-    'name': 'Республика Тува',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region18': {
-    'name': 'Удмуртская Республика',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region19': {
-    'name': 'Республика Хакасия',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region20': {
-    'name': 'Чеченская Республика',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region21': {
-    'name': 'Чувашская Республика',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region22': {
-    'name': 'Алтайский край',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region23': {
-    'name': 'Краснодарский край',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region24': {
-    'name': 'Красноярский край',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region25': {
-    'name': 'Приморский край',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region26': {
-    'name': 'Ставропольский край',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region27': {
-    'name': 'Хабаровский край',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region28': {
-    'name': 'Амурская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region29': {
-    'name': 'Архангельская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region30': {
-    'name': 'Астраханская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region31': {
-    'name': 'Белгородская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region32': {
-    'name': 'Брянская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region33': {
-    'name': 'Владимирская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region34': {
-    'name': 'Волгоградская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region35': {
-    'name': 'Вологодская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region36': {
-    'name': 'Воронежская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region37': {
-    'name': 'Ивановская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region38': {
-    'name': 'Иркутская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region39': {
-    'name': 'Калининградская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region40': {
-    'name': 'Калужская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region41': {
-    'name': 'Камчатская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region42': {
-    'name': 'Кемеровская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region43': {
-    'name': 'Кировская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region44': {
-    'name': 'Костромская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region45': {
-    'name': 'Курганская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region46': {
-    'name': 'Курская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region47': {
-    'name': 'Ленинградская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region48': {
-    'name': 'Липецкая область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region49': {
-    'name': 'Магаданская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region50': {
-    'name': 'Московская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region51': {
-    'name': 'Мурманская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region52': {
-    'name': 'Нижегородская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region53': {
-    'name': 'Новгородская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region54': {
-    'name': 'Новосибирская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region55': {
-    'name': 'Омская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-
-    ],
-    'cups': [
-      {
-        'name': 'OmCTF',
-        'created' : '2015',
-        'finished': '2017',
-        'site': 'https://omctf.ru/',
-        'contacts' : 'admin@omctf.ru',
-        'info': 'OmCTF – региональные соревнования в области информационной безопасности в Омске. В первый раз соревнования OmCTF состоялись 18 апреля 2015 в Омском государственном техническом университете. В них участвовали команды из 5 омских вузов, а также CTF-команда EpicTeam из НИЯУ МИФИ (г. Москва), которая соревновалась вне зачёта дистанционно',
-        'level': 3,
-        'logo': 'http://cs625527.vk.me/v625527862/2350c/9T6kMTXmTds.jpg'
-      }
-    ]
-  },
-  'region56': {
-    'name': 'Оренбургская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region57': {
-    'name': 'Орловская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region58': {
-    'name': 'Пензенская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region59': {
-    'name': 'Пермская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region60': {
-    'name': 'Псковская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region61': {
-    'name': 'Ростовская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region62': {
-    'name': 'Рязанская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region63': {
-    'name': 'Самарская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region64': {
-    'name': 'Саратовская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region65': {
-    'name': 'Сахалинская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region66': {
-    'name': 'Свердловская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region67': {
-    'name': 'Смоленская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region68': {
-    'name': 'Тамбовская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region69': {
-    'name': 'Тверская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region70': {
-    'name': 'Томская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region71': {
-    'name': 'Тульская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region72': {
-    'name': 'Тюменская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region73': {
-    'name': 'Ульяновская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region74': {
-    'name': 'Челябинская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region75': {
-    'name': 'Читинская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region76': {
-    'name': 'Ярославская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region77': {
-    'name': 'Город Москва',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region78': {
-    'name': 'Город Санкт-Петербург',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region79': {
-    'name': 'Еврейская АО',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region80': {
-    'name': 'Агинский Бурятский АО',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region81': {
-    'name': 'Коми Пермяцкий АО',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region82': {
-    'name': 'КРЫМ',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region83': {
-    'name': 'Ненецкий АО',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region84': {
-    'name': 'Таймырский (Долгано Ненецкий) АО',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region85': {
-    'name': 'Усть Ордынский Бурятский АО',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region86': {
-    'name': 'Ханты Мансийский АО',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region87': {
-    'name': 'Чукотский АО',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region88': {
-    'name': '[UNUSED]Эвенкийский автономный окру',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region89': {
-    'name': 'Ямало Ненецкий АО',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region90': {
-    'name': 'Московская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region92': {
-    'name': '[UNUSED]Севастополь',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region93': {
-    'name': '[UNUSED]Краснодарский край',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region94': {
-    'name': '[UNUSED]Территории, находящиеся за пределами РФ и обслуживаемые Управлением режимных объектов МВД России',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region95': {
-    'name': '[UNUSED]Чеченская Республика',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region96': {
-    'name': '[UNUSED]Свердловская область',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region97': {
-    'name': '[UNUSED]Город Москва',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region98': {
-    'name': '[UNUSED]Город Санкт-Петербург',
-    'team_list': '',
-    'cups_list': '',
-    'teams': [
-    ], 'cups': [
-    ],
-  },
-  'region99': {
-    'name': '[UNUSED]Город Москва'
-  }
+    "region1": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Республика Адыгея",
+        "team_list": "",
+        "teams": []
+    },
+    "region10": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Республика Карелия",
+        "team_list": "",
+        "teams": []
+    },
+    "region11": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Республика Коми",
+        "team_list": "",
+        "teams": []
+    },
+    "region12": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Республика Марий Эл",
+        "team_list": "",
+        "teams": []
+    },
+    "region13": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Республика Мордовия",
+        "team_list": "",
+        "teams": []
+    },
+    "region14": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Республика Саха",
+        "team_list": "",
+        "teams": []
+    },
+    "region15": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Северная Осетия",
+        "team_list": "",
+        "teams": []
+    },
+    "region16": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Республика Татарстан",
+        "team_list": "xBh",
+        "teams": [
+            {
+                "city": "Казань",
+                "contacts": "",
+                "created": "2012",
+                "ctftime_id": "1427",
+                "ctftime_logo": "https://ctftime.org//media/cache/9e/c4/9ec4d0e255f9a78882eb1508c824064b.png",
+                "desc": "",
+                "disband": "2016",
+                "id": "25",
+                "logo": "teams/1427.png",
+                "name": "xBh",
+                "region": "16",
+                "site": "",
+                "status": "0",
+                "type": "1"
+            }
+        ]
+    },
+    "region17": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Республика Тува",
+        "team_list": "",
+        "teams": []
+    },
+    "region18": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Удмуртская Республика",
+        "team_list": "",
+        "teams": []
+    },
+    "region19": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Республика Хакасия",
+        "team_list": "",
+        "teams": []
+    },
+    "region2": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Республика Башкортостан",
+        "team_list": "",
+        "teams": []
+    },
+    "region20": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Чеченская Республика",
+        "team_list": "",
+        "teams": []
+    },
+    "region21": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Чувашская Республика",
+        "team_list": "",
+        "teams": []
+    },
+    "region22": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Алтайский край",
+        "team_list": "",
+        "teams": []
+    },
+    "region23": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Краснодарский край",
+        "team_list": "",
+        "teams": []
+    },
+    "region24": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Красноярский край",
+        "team_list": "",
+        "teams": []
+    },
+    "region25": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Приморский край",
+        "team_list": "",
+        "teams": []
+    },
+    "region26": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Ставропольский край",
+        "team_list": "",
+        "teams": []
+    },
+    "region27": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Хабаровский край",
+        "team_list": "",
+        "teams": []
+    },
+    "region28": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Амурская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region29": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Архангельская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region3": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Республика Бурятия",
+        "team_list": "",
+        "teams": []
+    },
+    "region30": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Астраханская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region31": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Белгородская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region32": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Брянская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region33": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Владимирская область",
+        "team_list": "Honeypot",
+        "teams": [
+            {
+                "city": "Владимир",
+                "contacts": "",
+                "created": "2012",
+                "ctftime_id": "405",
+                "ctftime_logo": "https://ctftime.org//media/cache/81/be/81be45262d1003a0322fa275e441b7ac.png",
+                "desc": "",
+                "disband": "2017",
+                "id": "6",
+                "logo": "teams/405.png",
+                "name": "Honeypot",
+                "region": "33",
+                "site": "",
+                "status": "0",
+                "type": "1"
+            }
+        ]
+    },
+    "region34": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Волгоградская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region35": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Вологодская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region36": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Воронежская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region37": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Ивановская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region38": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Иркутская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region39": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Калининградская область",
+        "team_list": "[censored]",
+        "teams": [
+            {
+                "city": "Калининград",
+                "contacts": "",
+                "created": "2012",
+                "ctftime_id": "558",
+                "ctftime_logo": "https://ctftime.org//media/cache/ae/a1/aea12b8790469eb082614036bd5ce76e.png",
+                "desc": "",
+                "disband": "2017",
+                "id": "12",
+                "logo": "teams/558.png",
+                "name": "[censored]",
+                "region": "39",
+                "site": "",
+                "status": "0",
+                "type": "1"
+            }
+        ]
+    },
+    "region4": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Республика Алтай",
+        "team_list": "",
+        "teams": []
+    },
+    "region40": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Калужская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region41": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Камчатская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region42": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Кемеровская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region43": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Кировская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region44": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Костромская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region45": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Курганская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region46": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Курская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region47": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Ленинградская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region48": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Липецкая область",
+        "team_list": "",
+        "teams": []
+    },
+    "region49": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Магаданская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region5": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Республика Дагестан",
+        "team_list": "",
+        "teams": []
+    },
+    "region50": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Московская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region51": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Мурманская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region52": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Нижегородская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region53": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Новгородская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region54": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Новосибирская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region55": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Омская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region56": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Оренбургская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region57": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Орловская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region58": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Пензенская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region59": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Пермская область",
+        "team_list": "0day",
+        "teams": [
+            {
+                "city": "Пермь",
+                "contacts": "",
+                "created": "2012",
+                "ctftime_id": "1044",
+                "ctftime_logo": "https://ctftime.org//media/cache/29/26/29261714e8431ef71460952516fe51af.png",
+                "desc": "",
+                "disband": "2017",
+                "id": "20",
+                "logo": "teams/1044.png",
+                "name": "0day",
+                "region": "59",
+                "site": "",
+                "status": "0",
+                "type": "0"
+            }
+        ]
+    },
+    "region6": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Республика Ингушетия",
+        "team_list": "",
+        "teams": []
+    },
+    "region60": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Псковская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region61": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Ростовская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region62": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Рязанская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region63": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Самарская область",
+        "team_list": "Koibasta, Magic Hat, BAD_Magic",
+        "teams": [
+            {
+                "city": "Самара",
+                "contacts": "",
+                "created": "2012",
+                "ctftime_id": "496",
+                "ctftime_logo": "https://ctftime.org//media/cache/70/67/7067c2cb7d4405e3402ee5c43f74eb6a.png",
+                "desc": "",
+                "disband": "2017",
+                "id": "8",
+                "logo": "teams/496.png",
+                "name": "Koibasta",
+                "region": "63",
+                "site": "",
+                "status": "0",
+                "type": "1"
+            },
+            {
+                "city": "Самара",
+                "contacts": "",
+                "created": "2012",
+                "ctftime_id": "1398",
+                "ctftime_logo": "https://ctftime.org//media/cache/2a/48/2a48290f69a8dde97d7f4d29f4b96da0.png",
+                "desc": "",
+                "disband": "2017",
+                "id": "21",
+                "logo": "teams/1398.png",
+                "name": "Magic Hat",
+                "region": "63",
+                "site": "",
+                "status": "0",
+                "type": "1"
+            },
+            {
+                "city": "Самара",
+                "contacts": "",
+                "created": "2012",
+                "ctftime_id": "988",
+                "ctftime_logo": "https://ctftime.org//media/cache/46/7e/467e4b054f9ef38f46aac2b245099fb2.png",
+                "desc": "",
+                "disband": "2017",
+                "id": "17",
+                "logo": "teams/988.png",
+                "name": "BAD_Magic",
+                "region": "63",
+                "site": "",
+                "status": "0",
+                "type": "1"
+            }
+        ]
+    },
+    "region64": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Саратовская область",
+        "team_list": "Singularity",
+        "teams": [
+            {
+                "city": "Саратов",
+                "contacts": "",
+                "created": "2012",
+                "ctftime_id": "1425",
+                "ctftime_logo": "https://ctftime.org//media/cache/19/7f/197f144af38d9ee0df98973d5137540d.png",
+                "desc": "",
+                "disband": "2017",
+                "id": "24",
+                "logo": "teams/1425.png",
+                "name": "Singularity",
+                "region": "64",
+                "site": "",
+                "status": "0",
+                "type": "1"
+            }
+        ]
+    },
+    "region65": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Сахалинская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region66": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Свердловская область",
+        "team_list": "Noobs4Win",
+        "teams": [
+            {
+                "city": "Екатеринбург",
+                "contacts": "",
+                "created": "2012",
+                "ctftime_id": "1413",
+                "ctftime_logo": "https://ctftime.org/static/images/nologo.png",
+                "desc": "",
+                "disband": "2017",
+                "id": "22",
+                "logo": "teams/1413.png",
+                "name": "Noobs4Win",
+                "region": "66",
+                "site": "",
+                "status": "0",
+                "type": "1"
+            }
+        ]
+    },
+    "region67": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Смоленская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region68": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Тамбовская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region69": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Тверская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region7": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Кабардино-Балкарская Республика",
+        "team_list": "",
+        "teams": []
+    },
+    "region70": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Томская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region71": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Тульская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region72": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Тюменская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region73": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Ульяновская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region74": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Челябинская область",
+        "team_list": "WildRide, RooterX, MiT",
+        "teams": [
+            {
+                "city": "Челябинск",
+                "contacts": "",
+                "created": "2012",
+                "ctftime_id": "386",
+                "ctftime_logo": "https://ctftime.org/static/images/nologo.png",
+                "desc": "",
+                "disband": "2015",
+                "id": "5",
+                "logo": "teams/386.png",
+                "name": "WildRide",
+                "region": "74",
+                "site": "",
+                "status": "0",
+                "type": "1"
+            },
+            {
+                "city": "Челябинск",
+                "contacts": "",
+                "created": "2012",
+                "ctftime_id": "1434",
+                "ctftime_logo": "https://ctftime.org//media/cache/ba/f8/baf8878719ec230b08bed835038ddca3.png",
+                "desc": "",
+                "disband": "2016",
+                "id": "26",
+                "logo": "teams/1434.png",
+                "name": "RooterX",
+                "region": "74",
+                "site": "",
+                "status": "0",
+                "type": "1"
+            },
+            {
+                "city": "Миасс",
+                "contacts": "",
+                "created": "2012",
+                "ctftime_id": "1",
+                "ctftime_logo": "https://ctftime.org/static/images/nologo.png",
+                "desc": "",
+                "disband": "2017",
+                "id": "1",
+                "logo": "teams/1.png",
+                "name": "MiT",
+                "region": "74",
+                "site": "",
+                "status": "0",
+                "type": "1"
+            }
+        ]
+    },
+    "region75": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Читинская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region76": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Ярославская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region77": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Город Москва",
+        "team_list": "",
+        "teams": []
+    },
+    "region78": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Город Санкт-Петербург",
+        "team_list": "Leet More",
+        "teams": [
+            {
+                "city": "Санкт-Петербург",
+                "contacts": "",
+                "created": "2012",
+                "ctftime_id": "3",
+                "ctftime_logo": "https://ctftime.org//media/cache/56/f5/56f5614d646a418b189e6bc109a1d2c8.png",
+                "desc": "",
+                "disband": "2015",
+                "id": "2",
+                "logo": "teams/3.png",
+                "name": "Leet More",
+                "region": "78",
+                "site": "",
+                "status": "0",
+                "type": "1"
+            }
+        ]
+    },
+    "region79": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Еврейская АО",
+        "team_list": "",
+        "teams": []
+    },
+    "region8": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Республика Калмыкия",
+        "team_list": "",
+        "teams": []
+    },
+    "region80": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Агинский Бурятский АО",
+        "team_list": "",
+        "teams": []
+    },
+    "region81": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Коми Пермяцкий АО",
+        "team_list": "",
+        "teams": []
+    },
+    "region82": {
+        "cup_list": "",
+        "cups": [],
+        "name": "КРЫМ",
+        "team_list": "",
+        "teams": []
+    },
+    "region83": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Ненецкий АО",
+        "team_list": "",
+        "teams": []
+    },
+    "region84": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Таймырский (Долгано Ненецкий) АО",
+        "team_list": "",
+        "teams": []
+    },
+    "region85": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Усть Ордынский Бурятский АО",
+        "team_list": "",
+        "teams": []
+    },
+    "region86": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Ханты Мансийский АО",
+        "team_list": "",
+        "teams": []
+    },
+    "region87": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Чукотский АО",
+        "team_list": "",
+        "teams": []
+    },
+    "region88": {
+        "cup_list": "",
+        "cups": [],
+        "name": "[UNUSED]Эвенкийский автономный окру",
+        "team_list": "",
+        "teams": []
+    },
+    "region89": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Ямало Ненецкий АО",
+        "team_list": "",
+        "teams": []
+    },
+    "region9": {
+        "cup_list": "",
+        "cups": [],
+        "name": "Карачаево-Черкесская Республика",
+        "team_list": "",
+        "teams": []
+    },
+    "region92": {
+        "cup_list": "",
+        "cups": [],
+        "name": "[UNUSED]Севастополь",
+        "team_list": "",
+        "teams": []
+    },
+    "region93": {
+        "cup_list": "",
+        "cups": [],
+        "name": "[UNUSED]Краснодарский край",
+        "team_list": "",
+        "teams": []
+    },
+    "region94": {
+        "cup_list": "",
+        "cups": [],
+        "name": "[UNUSED]Территории, находящиеся за пределами РФ и обслуживаемые Управлением режимных объектов МВД России",
+        "team_list": "",
+        "teams": []
+    },
+    "region95": {
+        "cup_list": "",
+        "cups": [],
+        "name": "[UNUSED]Чеченская Республика",
+        "team_list": "",
+        "teams": []
+    },
+    "region96": {
+        "cup_list": "",
+        "cups": [],
+        "name": "[UNUSED]Свердловская область",
+        "team_list": "",
+        "teams": []
+    },
+    "region97": {
+        "cup_list": "",
+        "cups": [],
+        "name": "[UNUSED]Город Москва",
+        "team_list": "",
+        "teams": []
+    },
+    "region98": {
+        "cup_list": "",
+        "cups": [],
+        "name": "[UNUSED]Город Санкт-Петербург",
+        "team_list": "",
+        "teams": []
+    }
 }
