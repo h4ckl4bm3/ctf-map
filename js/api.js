@@ -149,7 +149,7 @@ let paths = {
   'path310': '41',
   'path312': '59',
   'path314': '82',
-  'path316': '97'
+  'path316': '99'
 };
 
 let regions = {
@@ -871,7 +871,7 @@ let regions = {
         "team_list": "",
         "teams": []
     },
-    "region77": {
+    "region99": {
         "cup_list": "",
         "cups": [],
         "name": "Город Москва",

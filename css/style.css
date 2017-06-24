@@ -192,9 +192,10 @@ position: fixed;
     -webkit-margin-after: 0;*/
 }
 .post-title {
-    margin: 10px 5px 5px 5px;
-    font-weight: bold;
-    padding: 5px;
+  font-size: 18px;
+    /*margin: 10px 5px 5px 5px;*/
+    /*font-weight: bold;*/
+    /*padding: 5px;*/
     color: rgba(213,213,213,1);
 }
 

@@ -84,10 +84,10 @@ function load_teams(current) {
     post_container.innerHTML =
     '<div class="col-12">' +
       '<div class="row">' +
-        '<div class="col-3 post-title">' + item.name + '</div>' +
-        '<div class="col-2 post-title-dates"> ' + item.created + ' г</div>' +
-        '<div class="col-3"></div>' +
-        '<div class="col-3 post-title-site"><a href="' + item.site + '"> ' + item.site + '</a></div>' +
+        '<div class="col-4 post-title">' + item.name + '</div>' +
+        '<div class="col-3 post-title-dates"> c ' + item.created + ' по ' + item.disband + ' гг.</div>' +
+        '<div class="col-1"></div>' +
+        '<div class="col-4 post-title-site"><a href="' + item.site + '"> ' + item.site + '</a></div>' +
       '</div>' +
       '<div class="row post-content">' +
         '<div class="xol-xs-12 col-md-3 col-lg-2">' +
