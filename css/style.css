@@ -292,3 +292,8 @@ position: fixed;
     min-height: 100%;
     color: rgba(213,213,213,1);
 }
+
+#t_teams {
+  overflow-x: hidden;
+  text-overflow: ellipsis;
+}
