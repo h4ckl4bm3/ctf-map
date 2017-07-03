@@ -80,6 +80,7 @@ function load_teams(current) {
 
   regions[current]["teams"].forEach(function(item, i) {
     let post_container = document.createElement('div')
+    let img = (item.ctftime_logo == "" ? "img/" + item.logo : item.ctftime_logo)
     post_container.className = 'post-container col-12'
     post_container.innerHTML =
     '<div class="col-12">' +
@@ -91,7 +92,7 @@ function load_teams(current) {
       '</div>' +
       '<div class="row post-content">' +
         '<div class="xol-xs-12 col-md-3 col-lg-2">' +
-            '<img class="img-responsive" src="' + item.ctftime_logo + '" />' +
+            '<img class="img-responsive" src="' + img + '" />' +
         '</div>' +
         '<div class="col-xs-12 col-md-9 col-lg-10">' + item.desc + '</div>' +
       '</div>' +
