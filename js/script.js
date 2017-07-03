@@ -74,7 +74,7 @@ function load_teams(current) {
   block.innerHTML = "";
 
   if(regions[current]["teams"].length == 0) {
-    block.innerHTML = "<h4 style='margin: 10px;'>В этом регионе нет команд :( Хотите создать свою? Напишите нам на <a href='mailto:admin@hackforces.com'>почту</a>!</h4>"
+    block.innerHTML = "<h4 style='margin: 10px;'>В этом регионе нет команд :( Хотите создать свою? Напишите нам на <a href='mailto:map@ctfnews.ru'>почту</a>!</h4>"
     return;
   }
 
@@ -106,7 +106,7 @@ function load_cups(current) {
   block.innerHTML = "";
 
   if(regions[current]["cups"].length == 0) {
-    block.innerHTML = "<h4 style='margin: 10px;'>В этом регионе ещё не проводились турниры. Хотите стать организатором? Напишите нам на <a href='mailto:admin@hackforces.com'>почту</a>!</h4>"
+    block.innerHTML = "<h4 style='margin: 10px;'>В этом регионе ещё не проводились турниры. Хотите стать организатором? Напишите нам на <a href='mailto:map@ctfnews.ru'>почту</a>!</h4>"
     return;
   }
 

@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
-  <title>CTF Interactive map</title>
+  <title>CTF - Interactive map</title>
   <script src="https://code.jquery.com/jquery-3.2.1.min.js" charset="utf-8"></script>
   <script src="https://npmcdn.com/tether@1.2.4/dist/js/tether.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
@@ -19,7 +19,7 @@
     <div>Турниры<p id="t_cups"></p></div>
   </div>
 
-  <div id="copyrights">Designed by <a href="https://github.com/hackforces/ctf-map">@Hackforces</a></div>
+  <div id="copyrights">Designed by <a href="https://github.com/hackforces/ctf-map">@Hackforces</a><p>По всем замечаниям, неточностям и предложениям: <a href="mailto:map@ctfnews.ru">map@ctfnews.ru</a></p></div>
   <div id="ctfguy"></div>
   <div id="legend">
     <span id="title">ЛЕГЕНДА</span>
@@ -32,21 +32,17 @@
   <div class="container-fluid" id="infoblock">
     <div class="row" id="infotitle">
       <!-- <div id="infomenu"> -->
-        <div class="col-2" id="i_teams">Команды</div>
-        <div class="col-2" id="i_cups">Турниры</div>
-        <div class="col-2" id="i_courses">Образование</div>
-        <div class="col-1"></div>
-      <!-- </div> -->
+      <div class="col-2" id="i_teams">Команды</div>
+      <div class="col-2" id="i_cups">Турниры</div>
+      <div class="col-2" id="i_courses">Образование</div>
+      <div class="col-1"></div>
       <div class="col-4" id="i_region">Null</div>
-      <div class="col-1" id="close">
-        <button type="button" class="close" aria-label="Close">
-          <span aria-hidden="true">&times;</span>
-        </button>
-      </div>
+      <div class="col-1" id="close"><button type="button" class="close" aria-label="Close"><span aria-hidden="true">&times;</span></button></div>
+      <!-- </div> -->
     </div>
-  <div class="row" id="infobody">
+    <div class="row" id="infobody">
+    </div>
   </div>
-</div>
 
 
 
